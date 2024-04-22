@@ -1,0 +1,13 @@
+timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
+0,False,GameStart,Map1,Null,0,0,0,Null
+0.6866667,False,CardSpawn,Map1,Apple Tree,4.06003,0.03816616,0.820002,Card/Nature/C_Tree
+0.6866667,False,CardSpawn,Map1,Forest,4.87504,0.0381662,2.625009,Card/Nature/C_Forest
+0.6866667,False,CardSpawn,Map1,Forest,7.875085,0.03816618,1.575004,Card/Nature/C_Forest
+0.6866667,False,CardSpawn,Map1,Forest,3.625033,0.03816625,4.375018,Card/Nature/C_Forest
+0.6866667,False,CardSpawn,Map1,Mountain,7.125062,0.03816611,-1.575008,Card/Nature/C_Mountain
+0.6866667,False,CardSpawn,Map1,Mountain,4.875038,0.03816606,-3.675015,Card/Nature/C_Mountain
+0.6866667,False,CardSpawn,Map1,Copper Mine,7.875065,0.03816606,-3.675015,Card/Nature/C_Copper Mine
+0.6866667,False,CardSpawn,Map1,Forest,7.125063,0.03816621,3.675013,Card/Nature/C_Forest
+3.534829,False,CardSpawn,Map1,Wood,-0.6949139,0.296076,1.713297,Card/Material/C_Wood
+3.770901,False,CardSpawn,Map1,Wood,-0.08338426,0.386385,1.860029,Card/Material/C_Wood
+4.070967,False,CardSpawn,Map1,Wood,1.303766,0.388228,1.19437,Card/Material/C_Wood
