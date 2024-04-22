@@ -19,3 +19,8 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 110.4342,False,CardSpawn,Map1,Copper Ingot,-1.176867,0.2941545,-0.8647832,Card/Product/C_CopperIngot
 110.6469,False,CardSpawn,Map1,Copper Ingot,-1.837593,0.386385,-0.921616,Card/Product/C_CopperIngot
 110.8381,False,CardSpawn,Map1,Copper Ingot,-2.546877,0.386385,-0.8875506,Card/Product/C_CopperIngot
+164.8887,False,CardSpawn,Map1,Wood,-1.693156,0.386385,-1.641232,Card/Material/C_Wood
+165.0725,False,CardSpawn,Map1,Wood,-1.52744,0.386385,-1.770337,Card/Material/C_Wood
+165.2192,False,CardSpawn,Map1,Wood,-0.790199,0.296076,-1.763942,Card/Material/C_Wood
+165.3561,False,CardSpawn,Map1,Wood,-0.2316619,0.2941545,-1.641232,Card/Material/C_Wood
+165.5077,False,CardSpawn,Map1,Wood,0.4732161,0.386385,-1.58228,Card/Material/C_Wood
