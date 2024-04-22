@@ -11,3 +11,13 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 3.534829,False,CardSpawn,Map1,Wood,-0.6949139,0.296076,1.713297,Card/Material/C_Wood
 3.770901,False,CardSpawn,Map1,Wood,-0.08338426,0.386385,1.860029,Card/Material/C_Wood
 4.070967,False,CardSpawn,Map1,Wood,1.303766,0.388228,1.19437,Card/Material/C_Wood
+16.0831,False,CardSpawn,Map1,Tree,4.87504,0.1080863,1.625009,Card/Nature/C_Tree
+16.0831,False,CardSpawn,Map1,Apple Tree,4.87504,0.03500101,1.625009,Card/Nature/C_Tree
+17.33526,False,CardSpawn,Map1,Tree,4.325033,0.03502533,5.375018,Card/Nature/C_Tree
+17.90162,False,CardSpawn,Map1,Tree,8.575086,0.03500507,2.575004,Card/Nature/C_Tree
+19.60759,False,CardSpawn,Map1,Rock,5.575038,0.03500507,-4.675014,Card/Nature/C_Rock Vein
+19.75732,False,CardSpawn,Map1,Rock,7.825061,0.03502533,-2.575008,Card/Nature/C_Rock Vein
+21.02541,False,CardSpawn,Map1,Tree,7.125063,0.03500507,2.675013,Card/Nature/C_Tree
+34.625,False,CardSpawn,Map1,Copper Vein,8.575066,0.03500507,-2.675015,Card/Nature/C_Copper Vein
+55.86984,False,CardSpawn,Map1,Stone,0.3752082,0.296076,-0.4482011,Card/Material/C_Stone
+56.06851,False,CardSpawn,Map1,Fine Wood,1.259697,0.2941545,-0.5987145,Card/Product/C_FineWood
