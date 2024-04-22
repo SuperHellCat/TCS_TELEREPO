@@ -21,3 +21,4 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 31.88353,False,CardSpawn,Map1,Stone,-3.518997,0.386385,-1.003295,Card/Material/C_Stone
 32.02162,False,CardSpawn,Map1,Stone,-3.610915,0.3825803,-0.144762,Card/Material/C_Stone
 32.05474,False,CardSpawn,Map1,Wood,-2.204005,0.2941545,-0.0170784,Card/Material/C_Wood
+48.67319,False,CardSpawn,Map1,Copper Ingot,43.78008,0.386385,-2.522927,Card/Product/C_CopperIngot
