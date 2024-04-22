@@ -177,3 +177,19 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 76.72198,False,CardSpawn,Map1,Villager,-1.001933,0.08333337,0.6846758,Card/Villager/C_Villager
 76.72198,False,CardSpawn,Map1,Logging Axe,-0.9061526,0.05153504,0.6846758,Card/Tool/C_Logging Axe
 78.53954,False,CardSpawn,Map1,Pickaxe,4.125,0.223228,-1.575,Card/Tool/C_Mining Pickaxe
+82.10604,False,CardMergeOrder,Map1,Villager,2.623868,0.4999976,-1.379044,Card/Villager/C_Villager
+82.12631,False,CardMergeOrder,Map1,Pickaxe,4.125,0.4999966,-1.575,Card/Tool/C_Mining Pickaxe
+85.22161,False,CardSpawn,Map1,Miner,3.374434,0.6988208,-1.477022,Card/Villager/C_Miner
+85.25005,False,CardSpawn,Map1,Rock,6.125,0.2116915,-1.575,Card/Nature/C_Rock Vein
+93.43999,False,CardDestroyed,Map1,Rock,6.148301,0.08964417,-1.575,Card/Nature/C_Rock Vein
+93.49118,False,CardSpawn,Map1,Stone,6.070672,0.1250001,-1.464101,Card/Material/C_Stone
+93.6121,False,CardSpawn,Map1,Stone,6.148301,0.1051829,-1.500329,Card/Material/C_Stone
+114.2502,False,CardMergeOrder,Map1,Stone,3.310807,0.5018787,-0.8150353,Card/Material/C_Stone
+114.2671,False,CardMergeOrder,Map1,Stone,4.010808,0.5018787,-0.8150353,Card/Material/C_Stone
+114.2823,False,CardMergeOrder,Map1,Wood,1.732726,0.5005953,0.8348496,Card/Material/C_Wood
+118.2317,False,CardMergeOrder,Map1,Stone,1.673063,0.49997,0.04875045,Card/Material/C_Stone
+118.2489,False,CardMergeOrder,Map1,Stone,2.212709,0.4999562,1.12481,Card/Material/C_Stone
+118.2647,False,CardMergeOrder,Map1,Wood,2.176433,0.4999496,-0.9422691,Card/Material/C_Wood
+118.2816,False,CardMergeOrder,Map1,Wood,3.748401,0.4985809,-0.543072,Card/Material/C_Wood
+120.3834,False,CardSpawn,Map1,Campfire,2.452652,0.6786761,-0.07794516,Card/Building/C_Campfire
+121.8288,False,CardSpawn,Map1,Vagrant,12.66,0.08333337,-0.72,Card/Villager/C_Vagrant
