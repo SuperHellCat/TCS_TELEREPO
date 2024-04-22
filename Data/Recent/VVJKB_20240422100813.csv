@@ -235,3 +235,31 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 181.66,False,CardDestroyed,Map1,Rock,6.409414,0.035,-2.575,Card/Nature/C_Rock Vein
 181.7227,False,CardSpawn,Map1,Stone,6.31175,0.05180766,-2.435479,Card/Material/C_Stone
 181.813,False,CardSpawn,Map1,Stone,6.409417,0.04518647,-2.495998,Card/Material/C_Stone
+193.88,False,CardDestroyed,Map1,Tree,5.575002,0.035,3.7019,Card/Nature/C_Tree
+193.9469,False,CardSpawn,Map1,Wood,5.479199,0.05153821,3.838761,Card/Material/C_Wood
+195.8,False,CardDestroyed,Map1,Rock,4.107774,0.08964417,-4.674999,Card/Nature/C_Rock Vein
+195.8501,False,CardSpawn,Map1,Stone,4.023966,0.127435,-4.555274,Card/Material/C_Stone
+195.9708,False,CardSpawn,Map1,Stone,4.107774,0.1047774,-4.564982,Card/Material/C_Stone
+202.0381,False,CardSpawn,Map1,Rock,6.425,0.03500389,-2.575,Card/Nature/C_Rock Vein
+203.98,False,CardDestroyed,Map1,Tree,6.56445,0.035,4.674999,Card/Nature/C_Tree
+204.0182,False,CardSpawn,Map1,Wood,6.491189,0.04811879,4.779658,Card/Material/C_Wood
+204.1342,False,CardSpawn,Map1,Wood,6.56445,0.04614533,4.762216,Card/Material/C_Wood
+213.98,False,CardDestroyed,Map1,Rock,6.425,0.08964417,-2.575,Card/Nature/C_Rock Vein
+214.0356,False,CardSpawn,Map1,Stone,6.338686,0.1284068,-2.451695,Card/Material/C_Stone
+214.127,False,CardSpawn,Map1,Stone,6.425,0.09155069,-2.520772,Card/Material/C_Stone
+216.3399,False,CardSpawn,Map1,Rock,4.875001,0.03500078,-2.674999,Card/Nature/C_Rock Vein
+218.2975,False,CardSpawn,Map1,Tree,4.875002,0.03500078,1.625,Card/Nature/C_Tree
+218.2975,False,CardSpawn,Map1,Rabbit,5.575002,0.08333337,1.625,Card/Creature/C_Rabbit
+220.14,False,CardDestroyed,Map1,Tree,2.833883,0.0848474,4.375,Card/Nature/C_Tree
+220.1885,False,CardSpawn,Map1,Wood,2.759395,0.117119,4.48141,Card/Material/C_Wood
+220.2893,False,CardSpawn,Map1,Wood,2.825095,0.1031936,4.441243,Card/Material/C_Wood
+226.1,False,CardDestroyed,Map1,Rock,4.807774,0.08964417,-2.674999,Card/Nature/C_Rock Vein
+226.1564,False,CardSpawn,Map1,Stone,4.693998,0.1384532,-2.512462,Card/Material/C_Stone
+226.25,False,CardSpawn,Map1,Stone,4.807774,0.09993751,-2.609345,Card/Material/C_Stone
+228.5155,False,CardSpawn,Map1,Tree,6.425001,0.03500016,3.674999,Card/Nature/C_Tree
+232.8646,False,CardSpawn,Map1,Copper Vein,7.175001,0.03500078,-3.674999,Card/Nature/C_Copper Vein
+234.6889,False,CardSpawn,Map1,Rock,7.125,0.03500078,-0.5750003,Card/Nature/C_Rock Vein
+238.32,False,CardDestroyed,Map1,Tree,4.875094,0.135324,1.625,Card/Nature/C_Tree
+238.3676,False,CardSpawn,Map1,Wood,4.78523,0.1958935,1.753379,Card/Material/C_Wood
+244.8171,False,CardSpawn,Map1,Tree,3.625002,0.03500078,5.375,Card/Nature/C_Tree
+246.9317,False,CardSpawn,Map1,Rock,4.175002,0.03500078,-2.674999,Card/Nature/C_Rock Vein
