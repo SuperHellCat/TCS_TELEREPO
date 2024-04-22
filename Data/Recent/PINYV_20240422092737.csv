@@ -17,3 +17,31 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 3.458347,False,CardSpawn,Map1,Wood,2.686435,0.386385,1.620844,Card/Material/C_Wood
 3.458347,False,CardSpawn,Map1,Stone,2.686435,0.386385,1.620844,Card/Material/C_Stone
 3.541133,False,CardSpawn,Map1,Fine Wood,0.7802405,0.386385,0.1278187,Card/Product/C_FineWood
+14.26136,False,CardSpawn,Map1,Wood,2.852756,0.386385,0.2207756,Card/Material/C_Wood
+14.41467,False,CardSpawn,Map1,Stone,3.253987,0.386385,0.3498519,Card/Material/C_Stone
+14.51314,False,CardSpawn,Map1,Wood,3.253987,0.2941545,0.3498519,Card/Material/C_Wood
+14.5987,False,CardSpawn,Map1,Stone,3.253987,0.296076,0.3498519,Card/Material/C_Stone
+14.72842,False,CardSpawn,Map1,Wood,1.831712,0.386385,1.245256,Card/Material/C_Wood
+14.72842,False,CardSpawn,Map1,Stone,1.831712,0.386385,1.245256,Card/Material/C_Stone
+14.80022,False,CardSpawn,Map1,Stone,2.332531,0.386385,2.451178,Card/Material/C_Stone
+14.87245,False,CardSpawn,Map1,Stone,2.921534,0.386385,3.4777,Card/Material/C_Stone
+14.89343,False,CardSpawn,Map1,Wood,2.940631,0.386385,3.646776,Card/Material/C_Wood
+14.97719,False,CardSpawn,Map1,Fine Wood,1.560776,0.296076,4.071296,Card/Product/C_FineWood
+15.07055,False,CardSpawn,Map1,Wood,-0.690815,0.386385,3.991642,Card/Material/C_Wood
+15.22331,False,CardSpawn,Map1,Wood,0.8449925,0.386385,2.764909,Card/Material/C_Wood
+15.34607,False,CardSpawn,Map1,Fine Wood,-2.58955,0.3825803,2.521791,Card/Product/C_FineWood
+15.4435,False,CardSpawn,Map1,Wood,0.09872548,0.386385,2.493498,Card/Material/C_Wood
+15.4435,False,CardSpawn,Map1,Stone,0.09872548,0.386385,2.493498,Card/Material/C_Stone
+15.52332,False,CardSpawn,Map1,Fine Wood,-1.449618,0.386385,2.409,Card/Product/C_FineWood
+15.6134,False,CardSpawn,Map1,Wood,-2.525501,0.386385,3.071864,Card/Material/C_Wood
+15.6134,False,CardSpawn,Map1,Stone,-2.525501,0.386385,3.071864,Card/Material/C_Stone
+15.68984,False,CardSpawn,Map1,Fine Wood,-0.7920982,0.386385,3.205721,Card/Product/C_FineWood
+15.8052,False,CardSpawn,Map1,Wood,-3.388882,0.4710422,2.88097,Card/Material/C_Wood
+15.8052,False,CardSpawn,Map1,Stone,-3.388882,0.4710422,2.88097,Card/Material/C_Stone
+15.94852,False,CardSpawn,Map1,Wood,-0.8910839,0.386385,1.503011,Card/Material/C_Wood
+16.04255,False,CardSpawn,Map1,Stone,-2.544542,0.4746915,1.131071,Card/Material/C_Stone
+18.38816,False,CardSpawn,Map1,Fine Stone,0.9745378,0.386385,-1.189243,Card/Material/C_FineStone
+19.74952,False,CardSpawn,Map1,Copper Ingot,-1.136635,0.386385,-1.078506,Card/Product/C_CopperIngot
+19.98642,False,CardSpawn,Map1,Copper Ingot,-1.641159,0.386385,-1.28315,Card/Product/C_CopperIngot
+20.14094,False,CardSpawn,Map1,Fine Stone,-0.8762072,0.386385,-1.271853,Card/Material/C_FineStone
+20.33935,False,CardSpawn,Map1,Fine Stone,0.7565119,0.296076,-0.3640811,Card/Material/C_FineStone
