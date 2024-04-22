@@ -10,3 +10,8 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 20.07234,False,CardSpawn,Map1,Stone,-2.980115,0.386385,0.7697041,Card/Material/C_Stone
 20.224,False,CardSpawn,Map1,Stone,-1.359359,0.386385,0.4752673,Card/Material/C_Stone
 20.42432,False,CardSpawn,Map1,Stone,-1.356823,0.386385,0.8820678,Card/Material/C_Stone
+31.95874,False,CardSpawn,Map1,Fine Wood,1.684668,0.2941545,3.258481,Card/Product/C_FineWood
+32.12776,False,CardSpawn,Map1,Fine Wood,0.3968989,0.386385,3.786422,Card/Product/C_FineWood
+32.27803,False,CardSpawn,Map1,Fine Wood,-0.9656265,0.296076,4.107183,Card/Product/C_FineWood
+32.44524,False,CardSpawn,Map1,Fine Wood,-2.767182,0.386385,4.204934,Card/Product/C_FineWood
+32.60898,False,CardSpawn,Map1,Fine Wood,-3.765767,0.386385,3.849953,Card/Product/C_FineWood
