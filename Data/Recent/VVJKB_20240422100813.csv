@@ -327,3 +327,9 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 365.58,False,CardDestroyed,Map1,Tree,4.107775,0.08964417,1.625,Card/Nature/C_Tree
 365.6404,False,CardSpawn,Map1,Wood,4.02006,0.1289462,1.750308,Card/Material/C_Wood
 368.3094,False,CardSpawn,Map1,Rock,5.575001,0.03500078,-3.674999,Card/Nature/C_Rock Vein
+384.6526,False,CardSpawn,Map1,Rock,7.824999,0.03500016,-1.575,Card/Nature/C_Rock Vein
+384.6526,False,CardSpawn,Map1,Chicken,7.125,0.08333337,-2.575,Card/Creature/C_Rabbit
+390.7,False,CardSpawn,Map1,Tree,5.575002,0.03500016,1.625,Card/Nature/C_Tree
+394.0215,False,CardSpawn,Map1,Copper Vein,7.175001,0.03500078,-2.674999,Card/Nature/C_Copper Vein
+397.88,False,CardDestroyed,Map1,Tree,5.544518,0.06694168,1.625,Card/Nature/C_Tree
+397.9354,False,CardSpawn,Map1,Wood,5.466586,0.09343393,1.736333,Card/Material/C_Wood
