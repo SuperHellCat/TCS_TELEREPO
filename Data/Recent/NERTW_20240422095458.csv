@@ -15,3 +15,7 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 32.27803,False,CardSpawn,Map1,Fine Wood,-0.9656265,0.296076,4.107183,Card/Product/C_FineWood
 32.44524,False,CardSpawn,Map1,Fine Wood,-2.767182,0.386385,4.204934,Card/Product/C_FineWood
 32.60898,False,CardSpawn,Map1,Fine Wood,-3.765767,0.386385,3.849953,Card/Product/C_FineWood
+110.2169,False,CardSpawn,Map1,Copper Ingot,0.04353297,0.2941545,-0.8191073,Card/Product/C_CopperIngot
+110.4342,False,CardSpawn,Map1,Copper Ingot,-1.176867,0.2941545,-0.8647832,Card/Product/C_CopperIngot
+110.6469,False,CardSpawn,Map1,Copper Ingot,-1.837593,0.386385,-0.921616,Card/Product/C_CopperIngot
+110.8381,False,CardSpawn,Map1,Copper Ingot,-2.546877,0.386385,-0.8875506,Card/Product/C_CopperIngot
