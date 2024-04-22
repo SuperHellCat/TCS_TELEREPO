@@ -1,0 +1,7 @@
+timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
+0,False,GameStart,Map1,Null,0,0,0,Null
+3.504113,False,CardSpawn,Map1,Wood,-0.160398,0.386385,-0.4298404,Card/Material/C_Wood
+3.683973,False,CardSpawn,Map1,Wood,-0.9534609,0.386385,0.3200841,Card/Material/C_Wood
+3.912628,False,CardSpawn,Map1,Wood,-1.593816,0.386385,1.350405,Card/Material/C_Wood
+4.082925,False,CardSpawn,Map1,Wood,0.4465325,0.4746915,2.027097,Card/Material/C_Wood
+4.305061,False,CardSpawn,Map1,Wood,1.416202,0.386385,1.243396,Card/Material/C_Wood
