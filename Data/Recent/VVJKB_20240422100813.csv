@@ -212,3 +212,26 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 125.3461,False,CardMergeOrder,Map1,Wood,1.375525,0.4888243,-0.5138603,Card/Material/C_Wood
 125.3629,False,CardMergeOrder,Map1,Wood,1.72181,0.4888243,1.16143,Card/Material/C_Wood
 127.4489,False,CardSpawn,Map1,Campfire,3.40195,0.6583863,-0.6750566,Card/Building/C_Campfire
+129.3232,False,CardSpawn,Map1,Vagrant,12.66,0.08333337,-0.72,Card/Villager/C_Vagrant
+135.2,False,CardDestroyed,Map1,Rock,6.417033,0.035,-0.5750003,Card/Nature/C_Rock Vein
+135.2434,False,CardSpawn,Map1,Stone,6.345362,0.04786655,-0.4726133,Card/Material/C_Stone
+135.343,False,CardSpawn,Map1,Stone,6.416631,0.04385202,-0.5071707,Card/Material/C_Stone
+135.7557,False,CardSpawn,Map1,Rock,4.175002,0.03500078,-2.674999,Card/Nature/C_Rock Vein
+143.4031,False,CardSpawn,Map1,Copper Vein,8.575001,0.03500078,-3.674999,Card/Nature/C_Copper Vein
+147.32,False,CardDestroyed,Map1,Rock,4.175002,0.1008802,-2.701789,Card/Nature/C_Rock Vein
+147.3667,False,CardSpawn,Map1,Stone,4.102999,0.1381175,-2.598927,Card/Material/C_Stone
+147.4666,False,CardSpawn,Map1,Stone,4.175002,0.1029943,-2.641021,Card/Material/C_Stone
+156.1396,False,CardSpawn,Map1,Rock,6.425,0.03500389,-2.575,Card/Nature/C_Rock Vein
+168.4064,False,CardSpawn,Map1,Rock,4.175002,0.03500016,-4.674999,Card/Nature/C_Rock Vein
+170.574,False,CardMergeOrder,Map1,Vagrant,3.392472,0.5,1.239734,Card/Villager/C_Vagrant
+170.5863,False,CardMergeOrder,Map1,Apple,4.102212,0.4999986,1.817256,Card/Food/C_Apple
+171.56,False,CardDestroyed,Map1,Copper Vein,8.575001,0.1008802,-3.69874,Card/Nature/C_Copper Vein
+171.6058,False,CardSpawn,Map1,Copper Ore,8.500043,0.1394631,-3.591658,Card/Material/C_CopperOre
+171.726,False,CardSpawn,Map1,Copper Ore,8.575001,0.1020968,-3.624217,Card/Material/C_CopperOre
+173.6843,False,CardSpawn,Map1,Villager,3.747342,0.6720945,1.528495,Card/Villager/C_Villager
+176.4875,False,CardMergeOrder,Map1,Villager,3.747342,0.523964,1.528495,Card/Villager/C_Villager
+176.5095,False,CardMergeOrder,Map1,Logging Axe,4.353012,0.4761134,0.9048794,Card/Tool/C_Logging Axe
+179.618,False,CardSpawn,Map1,Loggers,4.050177,0.7057199,1.216687,Card/Villager/C_Lumberjack
+181.66,False,CardDestroyed,Map1,Rock,6.409414,0.035,-2.575,Card/Nature/C_Rock Vein
+181.7227,False,CardSpawn,Map1,Stone,6.31175,0.05180766,-2.435479,Card/Material/C_Stone
+181.813,False,CardSpawn,Map1,Stone,6.409417,0.04518647,-2.495998,Card/Material/C_Stone
