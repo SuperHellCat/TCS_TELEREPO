@@ -333,3 +333,7 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 394.0215,False,CardSpawn,Map1,Copper Vein,7.175001,0.03500078,-2.674999,Card/Nature/C_Copper Vein
 397.88,False,CardDestroyed,Map1,Tree,5.544518,0.06694168,1.625,Card/Nature/C_Tree
 397.9354,False,CardSpawn,Map1,Wood,5.466586,0.09343393,1.736333,Card/Material/C_Wood
+481.78,False,CardDestroyed,Map1,Apple Tree,-0.5324757,0.1344471,1.177285,Card/Nature/C_Tree
+481.8217,False,CardSpawn,Map1,Wood,-0.6050584,0.1844281,1.280974,Card/Material/C_Wood
+481.9344,False,CardSpawn,Map1,Apple,-0.5324757,0.1584225,1.252822,Card/Food/C_Apple
+482.0732,False,CardSpawn,Map1,Apple,-0.4557173,0.1774535,1.28694,Card/Food/C_Apple
