@@ -1,0 +1,178 @@
+timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
+9.928939,False,GameStart,Map1,Null,0,0,0,Null
+9.948938,False,CardSpawn,Map1,Apple Tree,4.06,0.07353556,0.82,Card/Nature/C_Tree
+9.948938,False,CardSpawn,Map1,Forest,4.875002,0.07322925,2.625,Card/Nature/C_Forest
+9.948938,False,CardSpawn,Map1,Forest,7.875025,0.035,1.575,Card/Nature/C_Forest
+9.948938,False,CardSpawn,Map1,Forest,3.625002,0.07338464,4.375,Card/Nature/C_Forest
+9.948938,False,CardSpawn,Map1,Mountain,7.125,0.07322925,-1.575,Card/Nature/C_Mountain
+9.948938,False,CardSpawn,Map1,Mountain,4.875001,0.07338464,-3.674999,Card/Nature/C_Mountain
+9.948938,False,CardSpawn,Map1,Copper Mine,7.875,0.07322925,-3.674999,Card/Nature/C_Copper Mine
+9.948938,False,CardSpawn,Map1,Forest,7.125,0.07338017,3.674999,Card/Nature/C_Forest
+16.50632,False,CardSpawn,Map1,village,46.39946,0.1766915,172.8473,Card/Scene/C_Human Captal
+16.53933,False,CardSpawn,Map1,village,-41.78082,0.188385,142.5054,Card/Scene/C_Orc Captal
+16.57018,False,CardSpawn,Map1,village,-40.25002,0.1766915,222,Card/Scene/C_Elf Captal
+16.60232,False,CardSpawn,Map1,village,52.99998,0.1766915,181.5,Card/Scene/C_Human Villager
+16.63573,False,CardSpawn,Map1,village,41.49998,0.188228,180.5,Card/Scene/C_Human Villager
+16.66847,False,CardSpawn,Map1,village,56.24998,0.188385,172.75,Card/Scene/C_Human Villager
+16.70326,False,CardSpawn,Map1,village,61.24998,0.1766915,168.75,Card/Scene/C_Human Villager
+16.7364,False,CardSpawn,Map1,village,62.99998,0.188228,180.5,Card/Scene/C_Human Villager
+16.76933,False,CardSpawn,Map1,village,62.49998,0.188385,176,Card/Scene/C_Human Villager
+16.80115,False,CardSpawn,Map1,village,55.49998,0.1766915,169.75,Card/Scene/C_Human Villager
+16.83459,False,CardSpawn,Map1,village,19.74998,0.188228,165.5,Card/Scene/C_Human Villager
+16.8714,False,CardSpawn,Map1,village,44.74998,0.188385,182.75,Card/Scene/C_Human Villager
+16.90177,False,CardSpawn,Map1,village,46.24998,0.1766915,189.5,Card/Scene/C_Human Villager
+16.93526,False,CardSpawn,Map1,village,35.24998,0.188228,185.25,Card/Scene/C_Human Villager
+16.96947,False,CardSpawn,Map1,village,62.74998,0.188385,185.75,Card/Scene/C_Human Villager
+17.00191,False,CardSpawn,Map1,village,65.49998,0.1766915,163.25,Card/Scene/C_Human Villager
+17.0363,False,CardSpawn,Map1,village,48.49998,0.188228,178.25,Card/Scene/C_Human Villager
+17.07162,False,CardSpawn,Map1,village,23.49998,0.188385,160.75,Card/Scene/C_Human Villager
+17.10177,False,CardSpawn,Map1,village,30.99998,0.1766915,157.25,Card/Scene/C_Human Villager
+17.13709,False,CardSpawn,Map1,village,-42.75002,0.188228,151,Card/Scene/C_Orc Village
+17.1713,False,CardSpawn,Map1,village,-53.75002,0.188385,140.75,Card/Scene/C_Orc Village
+17.20191,False,CardSpawn,Map1,village,-52.50002,0.1766915,150,Card/Scene/C_Orc Village
+17.2356,False,CardSpawn,Map1,village,-20.25002,0.188228,127.75,Card/Scene/C_Orc Village
+17.26995,False,CardSpawn,Map1,village,-27.50002,0.188385,177,Card/Scene/C_Orc Village
+17.30141,False,CardSpawn,Map1,village,-73.50002,0.1766915,120,Card/Scene/C_Orc Village
+17.34065,False,CardSpawn,Map1,village,-37.50002,0.1766915,145.25,Card/Scene/C_Orc Village
+17.37243,False,CardSpawn,Map1,village,-63.50002,0.188385,113.25,Card/Scene/C_Orc Village
+17.40258,False,CardSpawn,Map1,village,-34.50002,0.1766915,153,Card/Scene/C_Orc Village
+17.43634,False,CardSpawn,Map1,village,-47.25002,0.188228,145.5,Card/Scene/C_Orc Village
+17.46905,False,CardSpawn,Map1,village,-20.75002,0.188385,124.75,Card/Scene/C_Orc Village
+17.50558,False,CardSpawn,Map1,village,-65.75002,0.1766915,132.5,Card/Scene/C_Orc Village
+17.53692,False,CardSpawn,Map1,village,-36.50002,0.188228,168.75,Card/Scene/C_Orc Village
+17.57123,False,CardSpawn,Map1,village,-61.00002,0.188385,127.25,Card/Scene/C_Orc Village
+17.60429,False,CardSpawn,Map1,village,-51.00002,0.1766915,156.5,Card/Scene/C_Orc Village
+17.64145,False,CardSpawn,Map1,village,-45.00002,0.1766915,148.5,Card/Scene/C_Orc Village
+17.67046,False,CardSpawn,Map1,village,-36.75002,0.188385,181.5,Card/Scene/C_Orc Village
+17.70505,False,CardSpawn,Map1,village,-74.25002,0.1766915,134.5,Card/Scene/C_Orc Village
+17.73862,False,CardSpawn,Map1,village,-57.00002,0.188228,146.75,Card/Scene/C_Orc Village
+17.77276,False,CardSpawn,Map1,village,-22.25002,0.188385,146.75,Card/Scene/C_Orc Village
+17.80993,False,CardSpawn,Map1,village,-41.25002,0.1766915,173,Card/Scene/C_Orc Village
+17.83864,False,CardSpawn,Map1,village,-29.00002,0.188228,171.75,Card/Scene/C_Orc Village
+17.87342,False,CardSpawn,Map1,village,-59.25002,0.188385,168.5,Card/Scene/C_Orc Village
+17.90613,False,CardSpawn,Map1,village,-28.50002,0.1766915,179.75,Card/Scene/C_Orc Village
+17.93865,False,CardSpawn,Map1,village,-62.25002,0.188228,132.75,Card/Scene/C_Orc Village
+17.97285,False,CardSpawn,Map1,village,-64.75002,0.188385,123.5,Card/Scene/C_Orc Village
+18.00607,False,CardSpawn,Map1,village,-31.00002,0.1766915,135.5,Card/Scene/C_Orc Village
+18.04045,False,CardSpawn,Map1,village,-33.00002,0.1766915,150,Card/Scene/C_Orc Village
+18.07081,False,CardSpawn,Map1,village,-32.75002,0.188385,114.25,Card/Scene/C_Orc Village
+18.10768,False,CardSpawn,Map1,village,-29.00002,0.1766915,132,Card/Scene/C_Orc Village
+18.13647,False,CardSpawn,Map1,village,-35.00002,0.188228,218.75,Card/Scene/C_Elf Village
+18.17687,False,CardSpawn,Map1,village,-65.75002,0.188385,199.5,Card/Scene/C_Elf Village
+18.20929,False,CardSpawn,Map1,village,-75.75002,0.1766915,209,Card/Scene/C_Elf Village
+18.24117,False,CardSpawn,Map1,village,-19.25002,0.1766915,218,Card/Scene/C_Elf Village
+18.2788,False,CardSpawn,Map1,village,-30.75002,0.188228,206.25,Card/Scene/C_Elf Village
+18.30985,False,CardSpawn,Map1,village,-12.00002,0.188385,209.5,Card/Scene/C_Elf Village
+18.3422,False,CardSpawn,Map1,village,-60.75002,0.1766915,200,Card/Scene/C_Elf Village
+18.37683,False,CardSpawn,Map1,village,-12.75002,0.188228,215.25,Card/Scene/C_Elf Village
+18.4105,False,CardSpawn,Map1,village,0.4999771,0.188385,215.25,Card/Scene/C_Elf Village
+18.43736,False,CardSpawn,Map1,village,-56.00002,0.188228,195.25,Card/Scene/C_Elf Village
+18.47366,False,CardSpawn,Map1,village,-53.00002,0.188385,192.5,Card/Scene/C_Elf Village
+18.50852,False,CardSpawn,Map1,village,-3.250023,0.1766915,215.75,Card/Scene/C_Elf Village
+18.5407,False,CardSpawn,Map1,village,58.24998,0.1766915,210.25,Card/Scene/C_Elf Village
+18.57857,False,CardSpawn,Map1,village,-37.00002,0.188228,227,Card/Scene/C_Elf Village
+18.60693,False,CardSpawn,Map1,village,36.49998,0.188385,230,Card/Scene/C_Elf Village
+18.64036,False,CardSpawn,Map1,village,2.749977,0.1766915,226.25,Card/Scene/C_Elf Village
+18.67163,False,CardSpawn,Map1,village,14.99998,0.188385,223.5,Card/Scene/C_Elf Village
+18.71037,False,CardSpawn,Map1,village,36.24998,0.1766915,206.5,Card/Scene/C_Elf Village
+18.738,False,CardSpawn,Map1,village,3.999977,0.188228,220.5,Card/Scene/C_Elf Village
+18.7751,False,CardSpawn,Map1,village,33.99998,0.188385,200.5,Card/Scene/C_Elf Village
+18.80852,False,CardSpawn,Map1,village,-18.50002,0.1766915,202.75,Card/Scene/C_Elf Village
+18.84079,False,CardSpawn,Map1,village,-18.25002,0.1766915,210.75,Card/Scene/C_Elf Village
+18.87903,False,CardSpawn,Map1,village,27.24998,0.188228,216.25,Card/Scene/C_Elf Village
+18.90566,False,CardSpawn,Map1,village,42.24998,0.188385,195.75,Card/Scene/C_Elf Village
+18.94567,False,CardSpawn,Map1,village,-71.75002,0.1766915,209.5,Card/Scene/C_Elf Village
+18.97243,False,CardSpawn,Map1,village,-44.50002,0.188385,215.5,Card/Scene/C_Elf Village
+19.02218,False,CardSpawn,Map1,village,-7.250023,0.1610739,207.25,Card/Scene/C_Elf Village
+19.04779,False,CardSpawn,Map1,village,-15.75002,0.188385,229.75,Card/Scene/C_Elf Village
+19.07709,False,CardSpawn,Map1,village,-34.25002,0.188385,200.75,Card/Scene/C_Elf Village
+19.11265,False,CardSpawn,Map1,village,-36.75002,0.1766915,205.75,Card/Scene/C_Elf Village
+19.14264,False,CardSpawn,Map1,village,-42.50002,0.1766915,220.75,Card/Scene/C_Elf Village
+19.17816,False,CardSpawn,Map1,village,-33.00002,0.188228,224.25,Card/Scene/C_Elf Village
+19.21068,False,CardSpawn,Map1,village,18.49998,0.188385,224,Card/Scene/C_Elf Village
+19.24229,False,CardSpawn,Map1,village,-18.25002,0.1766915,191.75,Card/Scene/C_Elf Village
+19.27694,False,CardSpawn,Map1,village,-64.00002,0.188228,195.25,Card/Scene/C_Elf Village
+19.30998,False,CardSpawn,Map1,village,3.249977,0.188385,228.75,Card/Scene/C_Elf Village
+19.3467,False,CardSpawn,Map1,village,-30.50002,0.1766915,201.5,Card/Scene/C_Elf Village
+19.37617,False,CardSpawn,Map1,village,-20.00002,0.188228,231.75,Card/Scene/C_Elf Village
+19.41039,False,CardSpawn,Map1,village,36.99998,0.188385,216.5,Card/Scene/C_Elf Village
+19.44257,False,CardSpawn,Map1,village,-31.50002,0.1766915,221.5,Card/Scene/C_Elf Village
+19.48146,False,CardSpawn,Map1,village,57.49998,0.1766915,204,Card/Scene/C_Elf Village
+19.50727,False,CardSpawn,Map1,village,25.49998,0.188385,222.75,Card/Scene/C_Elf Village
+19.54245,False,CardSpawn,Map1,village,-25.00002,0.1766915,219,Card/Scene/C_Elf Village
+19.57749,False,CardSpawn,Map1,village,-6.500023,0.188228,227.25,Card/Scene/C_Elf Village
+19.60995,False,CardSpawn,Map1,village,-31.25002,0.188385,196.5,Card/Scene/C_Elf Village
+19.64576,False,CardSpawn,Map1,village,-27.25002,0.1766915,198.5,Card/Scene/C_Elf Village
+19.67897,False,CardSpawn,Map1,village,-25.00002,0.188385,202.25,Card/Scene/C_Elf Village
+19.71051,False,CardSpawn,Map1,village,-39.75002,0.1766915,212.5,Card/Scene/C_Elf Village
+19.74386,False,CardSpawn,Map1,village,33.24998,0.1766915,226.5,Card/Scene/C_Elf Village
+19.77685,False,CardSpawn,Map1,village,-15.25002,0.188228,220.5,Card/Scene/C_Elf Village
+19.81579,False,CardSpawn,Map1,village,-4.000023,0.188385,222,Card/Scene/C_Elf Village
+19.8416,False,CardSpawn,Map1,village,-46.50002,0.1766915,198.75,Card/Scene/C_Elf Village
+19.87731,False,CardSpawn,Map1,village,53.99998,0.188228,233.25,Card/Scene/C_Elf Village
+19.91283,False,CardSpawn,Map1,village,-80.50002,0.188385,222.75,Card/Scene/C_Elf Village
+19.94114,False,CardSpawn,Map1,village,-41.50002,0.1766915,196.75,Card/Scene/C_Elf Village
+19.9781,False,CardSpawn,Map1,village,-22.25002,0.188228,225,Card/Scene/C_Elf Village
+20.01569,False,CardSpawn,Map1,village,-56.75002,0.188385,200,Card/Scene/C_Elf Village
+20.0431,False,CardSpawn,Map1,village,-79.50002,0.1766915,225.25,Card/Scene/C_Elf Village
+20.08007,False,CardSpawn,Map1,village,42.99998,0.1766915,223,Card/Scene/C_Elf Village
+20.11292,False,CardSpawn,Map1,village,-22.25002,0.188385,212.75,Card/Scene/C_Elf Village
+20.14543,False,CardSpawn,Map1,village,-62.75002,0.1766915,204.25,Card/Scene/C_Elf Village
+20.18177,False,CardSpawn,Map1,village,-0.5000229,0.1766915,231,Card/Scene/C_Elf Village
+20.21188,False,CardSpawn,Map1,village,-38.75002,0.188385,199.75,Card/Scene/C_Elf Village
+20.24751,False,CardSpawn,Map1,village,13.24998,0.1766915,227.25,Card/Scene/C_Elf Village
+20.28386,False,CardSpawn,Map1,village,32.24998,0.1766915,223.75,Card/Scene/C_Elf Village
+20.31593,False,CardSpawn,Map1,village,48.24998,0.188385,161,Card/Scene/C_Human Fortress
+20.34757,False,CardSpawn,Map1,village,39.74998,0.1766915,177.5,Card/Scene/C_Human Fortress
+20.38236,False,CardSpawn,Map1,village,63.49998,0.1766915,192.5,Card/Scene/C_Human Fortress
+20.41512,False,CardSpawn,Map1,village,-18.50002,0.188385,113,Card/Scene/C_Orc Fortress
+20.44408,False,CardSpawn,Map1,village,-11.25002,0.1766915,111.5,Card/Scene/C_Orc Fortress
+20.48692,False,CardSpawn,Map1,village,-32.75002,0.1766915,155,Card/Scene/C_Orc Fortress
+20.52487,False,CardSpawn,Map1,village,-37.50002,0.1766915,157.5,Card/Scene/C_Orc Fortress
+20.55398,False,CardSpawn,Map1,village,-47.75002,0.188385,112.5,Card/Scene/C_Orc Fortress
+20.59499,False,CardSpawn,Map1,village,-16.75002,0.1766915,126.75,Card/Scene/C_Orc Fortress
+20.62417,False,CardSpawn,Map1,village,-6.750023,0.1766915,224.75,Card/Scene/C_Elf Fortress
+20.66668,False,CardSpawn,Map1,village,47.24998,0.1766915,206.25,Card/Scene/C_Elf Fortress
+20.69316,False,CardSpawn,Map1,village,47.99998,0.188385,215.75,Card/Scene/C_Elf Fortress
+20.7381,False,CardSpawn,Map1,village,70.24998,0.1766915,210,Card/Scene/C_Elf Fortress
+20.77153,False,CardSpawn,Map1,village,66.49998,0.1766915,206.25,Card/Scene/C_Elf Fortress
+20.80246,False,CardSpawn,Map1,village,50.74998,0.1766915,227.5,Card/Scene/C_Elf Fortress
+20.84133,False,CardSpawn,Map1,village,37.99998,0.1766915,198.25,Card/Scene/C_Elf Fortress
+20.86999,False,CardSpawn,Map1,village,60.74998,0.188385,215.75,Card/Scene/C_Elf Fortress
+20.9242,False,CardSpawn,Map1,village,3.499977,0.1615401,213,Card/Scene/C_Elf Fortress
+20.94968,False,CardSpawn,Map1,village,25.74998,0.1766915,210.75,Card/Scene/C_Elf Fortress
+20.98835,False,CardSpawn,Map1,village,49.74998,0.1766915,222,Card/Scene/C_Elf Fortress
+21.02038,False,CardSpawn,Map1,village,38.24998,0.1766915,223,Card/Scene/C_Elf Fortress
+21.05935,False,CardSpawn,Map1,village,76.99998,0.188228,205,Card/Scene/C_Elf Fortress
+21.12255,False,CardSpawn,Map1,Dungeon,11.24998,0.1766915,221.25,Card/Scene/C_Dungeon
+21.15659,False,CardSpawn,Map1,Dungeon,0.9999771,0.188385,226.5,Card/Scene/C_Dungeon
+21.19212,False,CardSpawn,Map1,Dungeon,28.49998,0.1766915,215,Card/Scene/C_Dungeon
+21.22078,False,CardSpawn,Map1,Dungeon,38.74998,0.1766915,228.25,Card/Scene/C_Dungeon
+21.25549,False,CardSpawn,Map1,Dungeon,-5.250023,0.188228,217,Card/Scene/C_Dungeon
+21.28811,False,CardSpawn,Map1,Dungeon,-15.00002,0.188385,229.5,Card/Scene/C_Dungeon
+21.32347,False,CardSpawn,Map1,Dungeon,-14.50002,0.1766915,212.5,Card/Scene/C_Dungeon
+21.3663,False,CardSpawn,Map1,Dungeon,53.49998,0.1766915,236.25,Card/Scene/C_Dungeon
+21.39284,False,CardSpawn,Map1,Dungeon,43.74998,0.188385,199.25,Card/Scene/C_Dungeon
+21.42465,False,CardSpawn,Map1,Dungeon,57.99998,0.1766915,214,Card/Scene/C_Dungeon
+21.45894,False,CardSpawn,Map1,Dungeon,-20.25002,0.188228,203.75,Card/Scene/C_Dungeon
+21.49562,False,CardSpawn,Map1,Dungeon,-28.00002,0.188385,223.75,Card/Scene/C_Dungeon
+21.52442,False,CardSpawn,Map1,Dungeon,38.74998,0.1766915,186,Card/Scene/C_Dungeon
+21.56265,False,CardSpawn,Map1,Dungeon,64.99998,0.1766915,230.75,Card/Scene/C_Dungeon
+21.59462,False,CardSpawn,Map1,Dungeon,63.74998,0.188385,194.75,Card/Scene/C_Dungeon
+21.62719,False,CardSpawn,Map1,Dungeon,29.74998,0.1766915,165.75,Card/Scene/C_Dungeon
+21.66641,False,CardSpawn,Map1,Dungeon,74.74998,0.1766915,199,Card/Scene/C_Dungeon
+21.69007,False,CardSpawn,Map1,Dungeon,39.24998,0.188385,158.75,Card/Scene/C_Dungeon
+21.72849,False,CardSpawn,Map1,Dungeon,-54.25002,0.1766915,166,Card/Scene/C_Dungeon
+21.76275,False,CardSpawn,Map1,Dungeon,-26.75002,0.1766915,140.5,Card/Scene/C_Dungeon
+21.79936,False,CardSpawn,Map1,Dungeon,-81.50002,0.188385,217.25,Card/Scene/C_Dungeon
+21.82806,False,CardSpawn,Map1,Dungeon,-21.00002,0.1766915,126,Card/Scene/C_Dungeon
+21.86148,False,CardSpawn,Map1,Dungeon,-15.50002,0.1766915,112.75,Card/Scene/C_Dungeon
+21.89213,False,CardSpawn,Map1,Dungeon,-59.25002,0.188385,127.5,Card/Scene/C_Dungeon
+21.92901,False,CardSpawn,Map1,Dungeon,-23.75002,0.1766915,105.5,Card/Scene/C_Dungeon
+21.96056,False,CardSpawn,Map1,Dungeon,-70.50002,0.1766915,120.25,Card/Scene/C_Dungeon
+41.39471,False,CardSpawn,Map1,Vagrant,-2.964689,0.08333337,0.2590625,Card/Villager/C_Vagrant
+46.86951,False,CardSpawn,Map1,Apple,-4.817563,0.223385,0.1667202,Card/Food/C_Apple
+50.72662,False,CardMergeOrder,Map1,Apple,-4.638918,0.5,0.1187793,Card/Food/C_Apple
+51.00092,False,CardMergeOrder,Map1,Vagrant,-2.641306,0.5,0.2008786,Card/Villager/C_Vagrant
+54.10168,False,CardSpawn,Map1,Villager,-3.640112,0.6840927,0.159829,Card/Villager/C_Villager
+58.28714,False,CardSpawn,Map1,Logging Axe,-1.640112,0.2116915,0.159829,Card/Tool/C_Logging Axe
