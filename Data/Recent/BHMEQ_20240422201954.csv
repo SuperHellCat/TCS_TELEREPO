@@ -170,3 +170,4 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 303.3205,False,CardSpawn,Map1,Dungeon,-15.25002,0.1770022,119.5,Card/Scene/C_Dungeon
 303.3488,False,CardSpawn,Map1,Dungeon,-22.25002,0.1766915,110.25,Card/Scene/C_Dungeon
 303.3878,False,CardSpawn,Map1,Dungeon,-69.75002,0.1766915,117.5,Card/Scene/C_Dungeon
+506.3455,False,CardSpawn,Map1,Vagrant,-2.964689,0.08333337,0.2590625,Card/Villager/C_Vagrant
