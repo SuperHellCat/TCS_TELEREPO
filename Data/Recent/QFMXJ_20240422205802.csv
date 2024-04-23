@@ -172,3 +172,10 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 19.23474,False,CardSpawn,Map1,Dungeon,-60.50002,0.1766915,117.5,Card/Scene/C_Dungeon
 32.54234,False,CardSpawn,Map1,Vagrant,-2.964689,0.08333337,0.2590625,Card/Villager/C_Vagrant
 41.17498,False,CardSpawn,Map1,Apple,-4.973906,0.231076,0.03234562,Card/Food/C_Apple
+160.2972,False,CardMergeOrder,Map1,Apple,-4.97868,0.5,0.3053652,Card/Food/C_Apple
+160.5244,False,CardMergeOrder,Map1,Vagrant,-3.006318,0.5,0.1621941,Card/Villager/C_Vagrant
+163.6057,False,CardSpawn,Map1,Villager,-3.992499,0.678491,0.2337796,Card/Villager/C_Villager
+168.8564,False,CardSpawn,Map1,Logging Axe,-1.992499,0.223385,0.2337796,Card/Tool/C_Logging Axe
+175.8076,False,CardMergeOrder,Map1,Villager,-3.992499,0.4999999,0.2337796,Card/Villager/C_Villager
+175.8194,False,CardMergeOrder,Map1,Logging Axe,-1.992499,0.4999999,0.2337796,Card/Tool/C_Logging Axe
+178.8904,False,CardSpawn,Map1,Loggers,-2.992499,0.6780517,0.2337796,Card/Villager/C_Lumberjack
