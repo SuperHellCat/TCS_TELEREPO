@@ -451,3 +451,18 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 407.84,False,CardDestroyed,Map1,Rock,7.125,0.035,-0.5750003,Card/Nature/C_Rock Vein
 407.8896,False,CardSpawn,Map1,Stone,7.044833,0.04919716,-0.4604763,Card/Material/C_Stone
 407.9953,False,CardSpawn,Map1,Stone,7.125,0.04492947,-0.4983114,Card/Material/C_Stone
+428.2235,False,CardSpawn,Map1,Rock,7.824999,0.03500001,-2.575,Card/Nature/C_Rock Vein
+432,False,CardDestroyed,Map1,Rock,5.537307,0.09497944,-4.674999,Card/Nature/C_Rock Vein
+432.0514,False,CardSpawn,Map1,Stone,5.449476,0.1366675,-4.549527,Card/Material/C_Stone
+432.1932,False,CardSpawn,Map1,Stone,5.543933,0.3216547,-4.557735,Card/Material/C_Stone
+450.12,False,CardDestroyed,Map1,Rock,7.87043,0.07425483,-2.575,Card/Nature/C_Rock Vein
+450.1809,False,CardSpawn,Map1,Stone,7.779529,0.1078165,-2.445142,Card/Material/C_Stone
+452.6908,False,CardSpawn,Map1,Rock,5.575001,0.03500003,-2.674999,Card/Nature/C_Rock Vein
+452.6908,False,CardSpawn,Map1,Chicken,5.575001,0.08333337,-2.674999,Card/Creature/C_Rabbit
+453.9087,False,CardSpawn,Map1,Copper Vein,7.175001,0.03500015,-4.674999,Card/Nature/C_Copper Vein
+465.22,False,CardDestroyed,Map1,Rock,5.543912,0.035,-2.674986,Card/Nature/C_Rock Vein
+465.2683,False,CardSpawn,Map1,Stone,5.46062,0.04967624,-2.555998,Card/Material/C_Stone
+471.0687,False,CardSpawn,Map1,Rock,7.125,0.08808877,-2.575,Card/Nature/C_Rock Vein
+480.32,False,CardDestroyed,Map1,Rock,7.125709,0.08481254,-2.575,Card/Nature/C_Rock Vein
+480.354,False,CardSpawn,Map1,Stone,7.050609,0.1173045,-2.467714,Card/Material/C_Stone
+486.3408,False,CardSpawn,Map1,Rock,4.175002,0.03500003,-2.674999,Card/Nature/C_Rock Vein
