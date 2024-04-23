@@ -326,3 +326,23 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 161.7476,False,CardSpawn,Map1,Stone,6.130172,0.04415266,-1.531609,Card/Material/C_Stone
 162.3143,False,CardMergeOrder,Map1,Apple,0.9641287,0.49995,3.992835,Card/Food/C_Apple
 162.331,False,CardMergeOrder,Map1,Apple,1.664097,0.4999281,3.992872,Card/Food/C_Apple
+164.9246,False,CardSpawn,Map1,Copper Vein,8.575001,0.03500379,-3.674999,Card/Nature/C_Copper Vein
+171.7,False,CardDestroyed,Map1,Rock,4.218973,0.08496692,-0.7528115,Card/Nature/C_Rock Vein
+171.7477,False,CardSpawn,Map1,Stone,4.148973,0.1155551,-0.6528113,Card/Material/C_Stone
+174.1646,False,CardMergeOrder,Map1,Wood,1.248632,0.4730944,-0.01913509,Card/Material/C_Wood
+174.1812,False,CardMergeOrder,Map1,Wood,1.313097,0.5210881,-0.5598116,Card/Material/C_Wood
+174.1979,False,CardMergeOrder,Map1,Stone,2.333642,0.5193988,-0.3937929,Card/Material/C_Stone
+174.2146,False,CardMergeOrder,Map1,Stone,2.369042,0.4698001,-0.2714688,Card/Material/C_Stone
+176.298,False,CardSpawn,Map1,Campfire,1.816103,0.6743411,-0.3110521,Card/Building/C_Campfire
+178.2499,False,CardSpawn,Map1,Vagrant,12.66,0.08333337,-0.72,Card/Villager/C_Vagrant
+178.7109,False,CardSpawn,Map1,Rock,7.824999,0.03500379,-1.574959,Card/Nature/C_Rock Vein
+185.84,False,CardDestroyed,Map1,Rock,7.824999,0.23001,-1.650491,Card/Nature/C_Rock Vein
+185.8806,False,CardSpawn,Map1,Stone,7.754995,0.3128178,-1.550486,Card/Material/C_Stone
+191.9644,False,CardSpawn,Map1,Rock,4.175002,0.03500389,-4.674999,Card/Nature/C_Rock Vein
+204.02,False,CardDestroyed,Map1,Copper Vein,8.804732,0.035,-3.826522,Card/Nature/C_Copper Vein
+204.0676,False,CardSpawn,Map1,Copper Ore,8.734735,0.0475996,-3.726526,Card/Material/C_CopperOre
+204.1843,False,CardSpawn,Map1,Copper Ore,8.804732,0.0437113,-3.759854,Card/Material/C_CopperOre
+206.239,False,CardSpawn,Map1,Rock,7.824999,0.03501895,-1.575,Card/Nature/C_Rock Vein
+216.14,False,CardDestroyed,Map1,Rock,7.824999,0.035,-1.571922,Card/Nature/C_Rock Vein
+216.1897,False,CardSpawn,Map1,Stone,7.754998,0.04760029,-1.47192,Card/Material/C_Stone
+216.2897,False,CardSpawn,Map1,Stone,7.825288,0.04371064,-1.505255,Card/Material/C_Stone
