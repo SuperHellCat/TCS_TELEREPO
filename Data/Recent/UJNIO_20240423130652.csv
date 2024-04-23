@@ -633,3 +633,23 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 642.7686,False,CardSpawn,Map1,Wood,3.905999,0.05495803,2.140261,Card/Material/C_Wood
 642.8818,False,CardSpawn,Map1,Apple,4.026578,0.04371003,2.034703,Card/Food/C_Apple
 642.9821,False,CardSpawn,Map1,Apple,4.073308,0.04371137,2.034714,Card/Food/C_Apple
+650.78,False,CardDestroyed,Map1,Tree,4.317595,0.035,1.306713,Card/Nature/C_Tree
+650.8239,False,CardSpawn,Map1,Wood,4.247592,0.04760034,1.406716,Card/Material/C_Wood
+651.2435,False,CardSpawn,Map1,Wood,3.132579,0.035001,2.77449,Card/Material/C_Wood
+655.6651,False,CardMergeOrder,Map1,Wood,-2.365867,0.4999279,-1.762909,Card/Material/C_Wood
+655.6818,False,CardMergeOrder,Map1,Smelter,-1.017438,0.4999892,-1.355776,Card/Building/C_Smelter
+655.6984,False,CardMergeOrder,Map1,Copper Ore,-0.8867456,0.4746017,-2.293661,Card/Material/C_CopperOre
+655.7151,False,CardMergeOrder,Map1,Wood,-0.9110459,0.5242004,-2.292041,Card/Material/C_Wood
+658.7606,False,CardSpawn,Map1,Wood,3.602122,0.2137411,2.322306,Card/Material/C_Wood
+658.7963,False,CardSpawn,Map1,Smelter,-1.017438,0.6876727,-1.355776,Card/Building/C_Smelter
+658.9797,False,CardSpawn,Map1,Copper Ingot,-1.064108,0.6244401,-1.289104,Card/Product/C_CopperIngot
+670.98,False,CardDestroyed,Map1,Tree,5.607314,0.035,1.597456,Card/Nature/C_Tree
+671.0136,False,CardSpawn,Map1,Wood,5.53731,0.04760072,1.697462,Card/Material/C_Wood
+671.1163,False,CardSpawn,Map1,Apple,5.607314,0.04371195,1.663872,Card/Food/C_Apple
+675.5698,False,CardSpawn,Map1,Tree,7.17508,0.035,2.574903,Card/Nature/C_Tree
+678.9541,False,CardSpawn,Map1,Wood,4.848155,0.1638917,2.603357,Card/Material/C_Wood
+693.2,False,CardDestroyed,Map1,Apple Tree,4.83928,0.035,0.6517001,Card/Nature/C_Tree
+693.2386,False,CardSpawn,Map1,Wood,4.76928,0.04760007,0.7517008,Card/Material/C_Wood
+693.3553,False,CardSpawn,Map1,Apple,4.83928,0.04371149,0.71837,Card/Food/C_Apple
+695.8016,False,CardSpawn,Map1,Tree,4.175003,0.03500015,3.625,Card/Nature/C_Tree
+701.1801,False,CardSpawn,Map1,Wood,4.105717,0.1639155,1.689134,Card/Material/C_Wood
