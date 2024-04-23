@@ -1123,3 +1123,48 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 1485.66,False,CardDestroyed,Map1,Rock,4.171226,0.035,-2.674999,Card/Nature/C_Rock Vein
 1485.7,False,CardSpawn,Map1,Stone,4.101226,0.0476,-2.575,Card/Material/C_Stone
 1485.8,False,CardSpawn,Map1,Stone,4.171226,0.04371089,-2.608335,Card/Material/C_Stone
+1490.918,False,CardSpawn,Map1,Wood,3.777813,0.2138867,0.9489248,Card/Material/C_Wood
+1491.668,False,CardSpawn,Map1,Copper Vein,8.575001,0.03500379,-3.674999,Card/Nature/C_Copper Vein
+1495.672,False,CardSpawn,Map1,Stone,3.499511,0.2314153,-2.474851,Card/Material/C_Stone
+1499.1,False,CardDestroyed,Map1,Tree,4.931504,0.035,1.625,Card/Nature/C_Tree
+1499.136,False,CardSpawn,Map1,Wood,4.8615,0.04760074,1.725007,Card/Material/C_Wood
+1501.072,False,CardSpawn,Map1,Wood,3.132587,0.035001,2.77449,Card/Material/C_Wood
+1503.814,False,CardMergeOrder,Map1,Wood,2.046421,0.45931,0.1177839,Card/Material/C_Wood
+1503.831,False,CardMergeOrder,Map1,Wood,2.393074,0.3999273,0.007874396,Card/Material/C_Wood
+1503.848,False,CardMergeOrder,Map1,Wood,2.332554,0.5059761,-0.171176,Card/Material/C_Wood
+1503.865,False,CardMergeOrder,Map1,Carpenter,1.748084,0.5904973,-0.3490417,Card/Villager/C_Carpenter
+1505.786,False,CardSpawn,Map1,Stone,3.446279,0.2340702,-1.783655,Card/Material/C_Stone
+1506.756,False,CardSpawn,Map1,Rock,5.575001,0.03500389,-2.674999,Card/Nature/C_Rock Vein
+1506.958,False,CardSpawn,Map1,Fine Wood,2.130033,0.6564051,-0.09863986,Card/Product/C_FineWood
+1507.141,False,CardSpawn,Map1,Carpenter,2.083364,0.6027741,-0.03196926,Card/Villager/C_Carpenter
+1507.712,False,CardSpawn,Map1,Tree,7.17508,0.035,0.5749029,Card/Nature/C_Tree
+1507.712,False,CardSpawn,Map1,Apple Tree,7.87508,0.035,0.5749029,Card/Nature/C_Tree
+1508.366,False,CardMergeOrder,Map1,Copper Ingot,1.94173,0.4774445,-1.466197,Card/Product/C_CopperIngot
+1508.383,False,CardMergeOrder,Map1,Copper Ingot,1.951197,0.5282938,-1.520831,Card/Product/C_CopperIngot
+1508.4,False,CardMergeOrder,Map1,Fine Wood,2.228642,0.4230867,-1.0784,Card/Product/C_FineWood
+1509.2,False,CardDestroyed,Map1,Apple Tree,4.684947,0.08499538,0.2897888,Card/Nature/C_Tree
+1509.239,False,CardSpawn,Map1,Wood,4.614944,0.1155949,0.389793,Card/Material/C_Wood
+1509.356,False,CardSpawn,Map1,Apple,4.684947,0.1057749,0.3564571,Card/Food/C_Apple
+1511.47,False,CardSpawn,Map1,Logging Axe,2.040523,0.649322,-1.355143,Card/Tool/C_Logging Axe
+1512.235,False,CardMergeOrder,Map1,Logging Axe,2.040523,0.4989839,-1.355143,Card/Tool/C_Logging Axe
+1512.252,False,CardMergeOrder,Map1,Villager,2.888764,0.4748609,-0.7291468,Card/Villager/C_Villager
+1515.328,False,CardSpawn,Map1,Loggers,2.464644,0.6622251,-1.042145,Card/Villager/C_Lumberjack
+1517.174,False,CardSpawn,Map1,Wood,3.956534,0.1638913,1.33928,Card/Material/C_Wood
+1519.909,False,CardSpawn,Map1,Stone,2.571968,0.181445,-2.751605,Card/Material/C_Stone
+1524.027,False,CardSpawn,Map1,Tree,4.875002,0.03500076,3.625,Card/Nature/C_Tree
+1525.36,False,CardDestroyed,Map1,Tree,5.29246,0.08964417,-0.1413021,Card/Nature/C_Tree
+1525.405,False,CardSpawn,Map1,Wood,5.222459,0.1219166,-0.0413003,Card/Material/C_Wood
+1525.511,False,CardSpawn,Map1,Apple,5.29246,0.09460162,-0.07462988,Card/Food/C_Apple
+1525.623,False,CardSpawn,Map1,Wood,5.339128,0.0961212,-0.07463368,Card/Material/C_Wood
+1533.332,False,CardSpawn,Map1,Vagrant,-1.75,0.08333337,-8.75,Card/Villager/C_Vagrant
+1533.54,False,CardSpawn,Map1,Wood,3.727906,0.1638861,1.444262,Card/Material/C_Wood
+1534.14,False,CardDestroyed,Map1,Rock,5.621823,0.035,-2.674999,Card/Nature/C_Rock Vein
+1534.224,False,CardSpawn,Map1,Stone,5.504553,0.05452482,-2.50747,Card/Material/C_Stone
+1534.245,False,CardSpawn,Map1,Tree,7.125,0.03500015,4.674999,Card/Nature/C_Tree
+1539.416,False,CardSpawn,Map1,Wood,4.056425,0.2331306,1.517811,Card/Material/C_Wood
+1543.54,False,CardDestroyed,Map1,Tree,3.435566,0.035,0.3770999,Card/Nature/C_Tree
+1543.578,False,CardSpawn,Map1,Wood,3.365566,0.04760011,0.4771009,Card/Material/C_Wood
+1543.682,False,CardSpawn,Map1,Wood,3.435566,0.04371164,0.4437039,Card/Material/C_Wood
+1544.159,False,CardSpawn,Map1,Stone,4.042409,0.2390447,-2.270271,Card/Material/C_Stone
+1545.063,False,CardMergeOrder,Map1,Vagrant,-2.814897,0.4790422,-3.864998,Card/Villager/C_Vagrant
+1545.079,False,CardMergeOrder,Map1,Apple,-1.70738,0.4815743,-3.156405,Card/Food/C_Apple
