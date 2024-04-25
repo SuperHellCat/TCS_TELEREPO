@@ -1,4 +1,0 @@
-timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
-0,False,GameStart,Map1,Null,0,0,0,Null
-3.421245,False,CardSpawn,Map1,Loggers,-0.09991483,0.08333337,0.5874984,Card/Villager/C_Lumberjack
-5.719822,False,CardSpawn,Map1,Miner,-0.004473537,0.08333337,-2.350183,Card/Villager/C_Miner
