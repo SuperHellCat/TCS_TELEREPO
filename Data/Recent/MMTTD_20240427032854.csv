@@ -172,3 +172,16 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 57.01911,False,CardSpawn,Map1,Dungeon,-72.50002,0.188228,119.25,Card/Scene/C_Dungeon
 84.54859,False,CardSpawn,Map1,Vagrant,-2.635783,0.08333337,0.2008292,Card/Villager/C_Vagrant
 90.03345,False,CardSpawn,Map1,Apple,-3.010726,0.2732324,-0.4835909,Card/Food/C_Apple
+140.6745,False,CardMergeOrder,Map1,Apple,-3.067389,0.5233026,0.2840884,Card/Food/C_Apple
+140.6914,False,CardMergeOrder,Map1,Vagrant,-3.093438,0.4766985,0.6267782,Card/Villager/C_Vagrant
+143.7835,False,CardSpawn,Map1,Villager,-3.080414,0.681188,0.4554333,Card/Villager/C_Villager
+148.9878,False,CardSpawn,Map1,Logging Axe,-1.080414,0.2116915,0.4554333,Card/Tool/C_Logging Axe
+153.3032,False,CardMergeOrder,Map1,Villager,-3.080414,0.4760174,0.4554333,Card/Villager/C_Villager
+153.3199,False,CardMergeOrder,Map1,Logging Axe,-2.932756,0.5239823,-0.004755378,Card/Tool/C_Logging Axe
+153.3366,False,CardMergeOrder,Map1,Apple Tree,-1.205894,0.4999992,-0.1243804,Card/Nature/C_Tree
+159.9123,False,CardMergeOrder,Map1,Apple Tree,-4.530879,0.4999999,0.2586527,Card/Nature/C_Tree
+159.929,False,CardMergeOrder,Map1,Villager,-1.002897,0.4752326,-0.2796336,Card/Villager/C_Villager
+159.9458,False,CardMergeOrder,Map1,Logging Axe,-1.023034,0.524787,0.2781592,Card/Tool/C_Logging Axe
+164.2837,False,CardMergeOrder,Map1,Logging Axe,-3.638628,0.5000758,0.08256218,Card/Tool/C_Logging Axe
+164.3004,False,CardMergeOrder,Map1,Villager,-2.988628,0.4999999,0.4288927,Card/Villager/C_Villager
+164.317,False,CardMergeOrder,Map1,Apple Tree,-1.934579,0.4999999,-0.03997718,Card/Nature/C_Tree
