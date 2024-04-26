@@ -190,3 +190,12 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 133.7793,False,CardSpawn,Map1,Wood,3.830308,0.1035866,2.888537,Card/Material/C_Wood
 158.9633,False,CardMergeOrder,Map1,Tree,2.685231,0.523998,2.303173,Card/Nature/C_Tree
 158.9799,False,CardMergeOrder,Map1,Loggers,3.051794,0.4759999,2.13835,Card/Villager/C_Lumberjack
+224.0226,False,CardMergeOrder,Map1,Wood,-5.313152,0.4999745,0.3526629,Card/Material/C_Wood
+224.0393,False,CardMergeOrder,Map1,Loggers,-3.47954,0.4999692,1.633013,Card/Villager/C_Lumberjack
+224.0563,False,CardMergeOrder,Map1,Wood,-4.42251,0.4999692,0.7040929,Card/Material/C_Wood
+224.0732,False,CardMergeOrder,Map1,Apple Tree,-2.276466,0.499963,0.5387071,Card/Nature/C_Tree
+224.0899,False,CardMergeOrder,Map1,Tree,-2.37515,0.499963,1.614325,Card/Nature/C_Tree
+224.1067,False,CardMergeOrder,Map1,Apple Tree,-5.917196,0.5250697,-3.553956,Card/Nature/C_Tree
+224.1237,False,CardMergeOrder,Map1,Rock,2.302366,0.4999356,-1.145669,Card/Nature/C_Rock Vein
+224.1406,False,CardMergeOrder,Map1,Apple Tree,-5.95932,0.4750626,-4.102723,Card/Nature/C_Tree
+224.1574,False,CardMergeOrder,Map1,Tree,3.052391,0.4999224,2.004331,Card/Nature/C_Tree
