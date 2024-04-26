@@ -567,3 +567,22 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 738.8956,False,CardSpawn,Map1,Tree,4.875002,0.03500003,3.625,Card/Nature/C_Tree
 748.46,False,CardDestroyed,Map1,Tree,7.825,0.035,2.674999,Card/Nature/C_Tree
 748.4971,False,CardSpawn,Map1,Wood,7.754427,0.04769159,2.775818,Card/Material/C_Wood
+759.5646,False,CardSpawn,Map1,Stone,3.120526,0.1662103,1.690602,Card/Material/C_Stone
+761.4415,False,CardSpawn,Map1,Tree,8.575025,0.035,0.5749998,Card/Nature/C_Tree
+762.6,False,CardDestroyed,Map1,Tree,4.875099,0.035,3.625063,Card/Nature/C_Tree
+762.6335,False,CardSpawn,Map1,Wood,4.805097,0.04760034,3.725066,Card/Material/C_Wood
+762.7398,False,CardSpawn,Map1,Wood,4.875142,0.04374916,3.692027,Card/Material/C_Wood
+773.6343,False,CardSpawn,Map1,Tree,7.825,0.035,4.674999,Card/Nature/C_Tree
+773.6343,False,CardSpawn,Map1,Apple Tree,7.825,0.035,2.674999,Card/Nature/C_Tree
+773.6343,False,CardSpawn,Map1,Rabbit,6.425001,0.08333337,2.674999,Card/Creature/C_Rabbit
+780.78,False,CardDestroyed,Map1,Tree,8.602931,0.035,0.5749998,Card/Nature/C_Tree
+780.8242,False,CardSpawn,Map1,Wood,8.515326,0.05032812,0.7001486,Card/Material/C_Wood
+787.8731,False,CardSpawn,Map1,Tree,5.575002,0.08502293,1.625,Card/Nature/C_Tree
+787.8731,False,CardSpawn,Map1,Apple Tree,5.575002,0.1368624,1.625,Card/Nature/C_Tree
+789.8683,False,CardSpawn,Map1,Stone,-1.071707,0.1653115,1.647733,Card/Material/C_Stone
+792.9,False,CardDestroyed,Map1,Apple Tree,7.825,0.035,2.674999,Card/Nature/C_Tree
+792.9393,False,CardSpawn,Map1,Wood,7.753792,0.04779285,2.776725,Card/Material/C_Wood
+793.0395,False,CardSpawn,Map1,Apple,7.825,0.0437086,2.74162,Card/Food/C_Apple
+805.02,False,CardDestroyed,Map1,Tree,7.825325,0.035,4.674999,Card/Nature/C_Tree
+805.0704,False,CardSpawn,Map1,Wood,7.751421,0.04822027,4.780576,Card/Material/C_Wood
+805.3638,False,CardSpawn,Map1,Tree,7.875025,0.035,0.5749998,Card/Nature/C_Tree
