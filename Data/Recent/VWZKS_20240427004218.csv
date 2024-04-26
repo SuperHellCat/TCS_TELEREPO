@@ -604,3 +604,8 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 849.6072,False,CardSpawn,Map1,Wood,7.942253,0.0975398,0.6406084,Card/Material/C_Wood
 854.159,False,CardSpawn,Map1,Tree,4.175003,0.08522395,3.625,Card/Nature/C_Tree
 860.5885,False,CardSpawn,Map1,Stone,1.230979,0.2810556,-0.06340629,Card/Material/C_Stone
+882.88,False,CardDestroyed,Map1,Rock,7.192218,0.08964417,-0.5750126,Card/Nature/C_Rock Vein
+882.9158,False,CardSpawn,Map1,Stone,7.121003,0.122413,-0.4732764,Card/Material/C_Stone
+883.0288,False,CardSpawn,Map1,Stone,7.192218,0.1007162,-0.5083418,Card/Material/C_Stone
+900.955,False,CardSpawn,Map1,Stone,2.78898,0.1642102,2.300754,Card/Material/C_Stone
+929.235,False,CardSpawn,Map1,Stone,2.788677,0.1653482,2.300565,Card/Material/C_Stone
