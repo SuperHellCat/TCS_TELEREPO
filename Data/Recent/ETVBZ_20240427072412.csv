@@ -184,3 +184,9 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 128.323,False,CardSpawn,Map1,Tree,4.325002,0.03500078,4.375,Card/Nature/C_Tree
 129.0972,False,CardSpawn,Map1,Tree,6.425001,0.03500384,2.674999,Card/Nature/C_Tree
 129.0972,False,CardSpawn,Map1,Apple Tree,6.425001,0.1010849,2.674999,Card/Nature/C_Tree
+131.2485,False,CardSpawn,Map1,Tree,8.575025,0.035,2.575,Card/Nature/C_Tree
+133.64,False,CardDestroyed,Map1,Tree,3.830308,0.08481254,2.821772,Card/Nature/C_Tree
+133.679,False,CardSpawn,Map1,Wood,3.759507,0.115655,2.922916,Card/Material/C_Wood
+133.7793,False,CardSpawn,Map1,Wood,3.830308,0.1035866,2.888537,Card/Material/C_Wood
+158.9633,False,CardMergeOrder,Map1,Tree,2.685231,0.523998,2.303173,Card/Nature/C_Tree
+158.9799,False,CardMergeOrder,Map1,Loggers,3.051794,0.4759999,2.13835,Card/Villager/C_Lumberjack
