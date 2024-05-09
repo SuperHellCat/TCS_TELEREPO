@@ -172,3 +172,15 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 29.71737,False,CardSpawn,Map1,Dungeon,-63.75002,0.188228,112.5,Card/Scene/C_Dungeon
 53.9862,False,CardSpawn,Map1,Vagrant,-2.964689,0.08333337,0.2590625,Card/Villager/C_Vagrant
 64.97614,False,CardSpawn,Map1,Apple,-5.833041,0.2311545,0.3490657,Card/Food/C_Apple
+99.37286,False,CardMergeOrder,Map1,Apple,-5.631384,0.5000001,-0.5764855,Card/Food/C_Apple
+99.38952,False,CardMergeOrder,Map1,Vagrant,-3.883946,0.5000001,0.05286327,Card/Villager/C_Vagrant
+102.4779,False,CardSpawn,Map1,Villager,-4.757665,0.6800085,-0.2618111,Card/Villager/C_Villager
+110.7186,False,CardSpawn,Map1,Logging Axe,-2.757665,0.223228,-0.2618111,Card/Tool/C_Logging Axe
+114.756,False,CardMergeOrder,Map1,Villager,-4.757665,0.4999999,-0.2618111,Card/Villager/C_Villager
+114.7727,False,CardMergeOrder,Map1,Logging Axe,-2.757665,0.4999998,-0.2618111,Card/Tool/C_Logging Axe
+117.8571,False,CardSpawn,Map1,Loggers,-3.757665,0.6799966,-0.2618111,Card/Villager/C_Lumberjack
+122.1488,False,CardSpawn,Map1,Apple Tree,0.6250024,0.223871,4.375,Card/Nature/C_Tree
+137.1304,False,CardSpawn,Map1,Rock,4.175002,0.03500389,-4.674999,Card/Nature/C_Rock Vein
+137.3788,False,CardSpawn,Map1,Rock,7.824999,0.03500379,-2.575,Card/Nature/C_Rock Vein
+138.4309,False,CardMergeOrder,Map1,Loggers,2.04098,0.5000011,0.9959456,Card/Villager/C_Lumberjack
+138.4475,False,CardMergeOrder,Map1,Apple Tree,4.12837,0.5000004,0.7282512,Card/Nature/C_Tree
