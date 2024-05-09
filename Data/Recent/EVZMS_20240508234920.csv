@@ -315,3 +315,5 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 1548.56,False,CardDestroyed,Map1,Copper Vein,8.635571,0.1008802,-3.657759,Card/Nature/C_Copper Vein
 1548.604,False,CardSpawn,Map1,Copper Ore,8.565577,0.1371944,-3.557767,Card/Material/C_CopperOre
 1548.704,False,CardSpawn,Map1,Copper Ore,8.635571,0.1029449,-3.591093,Card/Material/C_CopperOre
+2900.568,False,CardSpawn,Map1,Ignix,0,0.08333337,0,Card/Enemy/Boss/C_Red Dragon Ignix_Small
+2904.501,False,CardSpawn,Map1,Ignix,0,0.08333337,0,Card/Enemy/Boss/C_Red Dragon Ignix_Small
