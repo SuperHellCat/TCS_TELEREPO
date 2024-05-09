@@ -236,3 +236,22 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 4245.804,False,CardMergeOrder,Map1,Vagrant,-2.798224,0.5002183,-0.1141924,Card/Villager/C_Vagrant
 4245.821,False,CardMergeOrder,Map1,Apple,-4.071486,0.5000901,-0.2365971,Card/Food/C_Apple
 4248.921,False,CardSpawn,Map1,Villager,-3.434855,0.6802117,-0.1753947,Card/Villager/C_Villager
+4340.099,False,CardSpawn,Map1,Logging Axe,-1.434855,0.223228,-0.1753947,Card/Tool/C_Logging Axe
+4344.017,False,CardMergeOrder,Map1,Villager,-3.434855,0.4999999,-0.1753947,Card/Villager/C_Villager
+4344.033,False,CardMergeOrder,Map1,Logging Axe,-2.138459,0.4999999,-0.4464324,Card/Tool/C_Logging Axe
+4347.117,False,CardSpawn,Map1,Loggers,-2.786657,0.6801311,-0.3109136,Card/Villager/C_Lumberjack
+4352.418,False,CardSpawn,Map1,Apple Tree,0.6250024,0.231562,4.375,Card/Nature/C_Tree
+4366.66,False,CardDestroyed,Map1,Apple Tree,0.6250024,0.08964417,4.394044,Card/Nature/C_Tree
+4366.704,False,CardSpawn,Map1,Wood,0.5550035,0.1219156,4.494042,Card/Material/C_Wood
+4366.804,False,CardSpawn,Map1,Apple,0.6250024,0.09459987,4.46071,Card/Food/C_Apple
+4366.904,False,CardSpawn,Map1,Apple,0.6716678,0.09878303,4.460709,Card/Food/C_Apple
+4369.84,False,CardSpawn,Map1,Tree,5.575002,0.03500379,2.625,Card/Nature/C_Tree
+4370.64,False,CardSpawn,Map1,Rock,5.575001,0.03500389,-4.674999,Card/Nature/C_Rock Vein
+4371.049,False,CardSpawn,Map1,Tree,7.125,0.03500384,2.674999,Card/Nature/C_Tree
+4371.049,False,CardSpawn,Map1,Apple Tree,7.825,0.03500384,4.674999,Card/Nature/C_Tree
+4371.666,False,CardSpawn,Map1,Rock,7.824999,0.03500379,-2.575,Card/Nature/C_Rock Vein
+4374.372,False,CardSpawn,Map1,Tree,8.575025,0.035,1.575,Card/Nature/C_Tree
+4374.709,False,CardSpawn,Map1,Tree,2.925002,0.03500389,5.375,Card/Nature/C_Tree
+4378.78,False,CardDestroyed,Map1,Apple Tree,4.06,0.035,0.7773283,Card/Nature/C_Tree
+4378.827,False,CardSpawn,Map1,Wood,3.989999,0.04760009,0.8773291,Card/Material/C_Wood
+4378.943,False,CardSpawn,Map1,Apple,4.06,0.04371098,0.8439938,Card/Food/C_Apple
