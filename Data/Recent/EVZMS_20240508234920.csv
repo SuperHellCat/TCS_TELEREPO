@@ -246,3 +246,16 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 1219.3,False,CardDestroyed,Map1,Rock,7.122438,0.07425483,-0.5750003,Card/Nature/C_Rock Vein
 1219.347,False,CardSpawn,Map1,Stone,7.052444,0.1009847,-0.4750083,Card/Material/C_Stone
 1219.447,False,CardSpawn,Map1,Stone,7.123161,0.3032615,-0.5083131,Card/Material/C_Stone
+1235.46,False,CardDestroyed,Map1,Rock,4.175004,0.035,-3.675004,Card/Nature/C_Rock Vein
+1235.498,False,CardSpawn,Map1,Stone,4.104992,0.04760177,-3.574988,Card/Material/C_Stone
+1240.418,False,CardSpawn,Map1,Rock,6.425,0.03501895,-2.575,Card/Nature/C_Rock Vein
+1251.62,False,CardDestroyed,Map1,Rock,6.434203,0.035,-2.575,Card/Nature/C_Rock Vein
+1251.654,False,CardSpawn,Map1,Stone,6.364202,0.04760016,-2.474999,Card/Material/C_Stone
+1255.72,False,CardSpawn,Map1,Rock,5.575001,0.03500389,-4.674999,Card/Nature/C_Rock Vein
+1265.76,False,CardDestroyed,Map1,Rock,5.575001,0.1008802,-4.701788,Card/Nature/C_Rock Vein
+1265.805,False,CardSpawn,Map1,Stone,5.505001,0.1371971,-4.601789,Card/Material/C_Stone
+1270.223,False,CardSpawn,Map1,Copper Vein,8.575001,0.03500379,-3.674999,Card/Nature/C_Copper Vein
+1272.04,False,CardSpawn,Map1,Rock,6.425,0.03501895,-0.5750003,Card/Nature/C_Rock Vein
+1286.326,False,CardSpawn,Map1,Rock,4.175002,0.03500389,-4.674999,Card/Nature/C_Rock Vein
+1292.02,False,CardDestroyed,Map1,Copper Vein,8.575002,0.1008802,-3.645715,Card/Nature/C_Copper Vein
+1292.06,False,CardSpawn,Map1,Copper Ore,8.505003,0.1371966,-3.545717,Card/Material/C_CopperOre
