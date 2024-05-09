@@ -201,3 +201,18 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 1051.008,False,CardSpawn,Map1,Villager,1.38289,0.08333337,2.215595,Card/Villager/C_Villager
 1051.008,False,CardSpawn,Map1,Logging Axe,1.45294,0.04760791,2.215595,Card/Tool/C_Logging Axe
 1052.808,False,CardSpawn,Map1,Pickaxe,4.125,0.2238588,-1.575,Card/Tool/C_Mining Pickaxe
+1058.407,False,CardMergeOrder,Map1,Villager,1.368617,0.4999943,2.215595,Card/Villager/C_Villager
+1058.424,False,CardMergeOrder,Map1,Pickaxe,1.757763,0.4999387,1.17278,Card/Tool/C_Mining Pickaxe
+1061.507,False,CardSpawn,Map1,Miner,1.56319,0.6799698,1.694188,Card/Villager/C_Miner
+1061.524,False,CardSpawn,Map1,Rock,6.125,0.2121653,-1.575,Card/Nature/C_Rock Vein
+1069.82,False,CardDestroyed,Map1,Rock,3.433487,0.1008802,0.4165604,Card/Nature/C_Rock Vein
+1069.859,False,CardSpawn,Map1,Stone,3.363491,0.1371953,0.5165551,Card/Material/C_Stone
+1079.92,False,CardDestroyed,Map1,Rock,6.125,0.08964417,-1.60645,Card/Nature/C_Rock Vein
+1079.96,False,CardSpawn,Map1,Stone,6.054997,0.1219169,-1.506447,Card/Material/C_Stone
+1080.06,False,CardSpawn,Map1,Stone,6.125,0.09459901,-1.539784,Card/Material/C_Stone
+1089.245,False,CardSpawn,Map1,Copper Vein,7.875,0.03500379,-4.674999,Card/Nature/C_Copper Vein
+1090.478,False,CardSpawn,Map1,Rock,7.824999,0.03501895,-0.5750003,Card/Nature/C_Rock Vein
+1092.04,False,CardDestroyed,Map1,Rock,4.175002,0.1571911,-3.675066,Card/Nature/C_Rock Vein
+1092.078,False,CardSpawn,Map1,Stone,4.104999,0.2137822,-3.575062,Card/Material/C_Stone
+1092.178,False,CardSpawn,Map1,Stone,4.175002,0.349861,-3.608398,Card/Material/C_Stone
+1112.914,False,CardSpawn,Map1,Rock,4.175002,0.03501944,-3.674999,Card/Nature/C_Rock Vein
