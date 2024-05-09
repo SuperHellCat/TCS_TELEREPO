@@ -322,3 +322,8 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 2934.079,False,CardSpawn,Map1,Swordsman,0.9320303,0.08333337,-2,Card/Soldier/C_Swordsman
 2934.079,False,CardSpawn,Map1,Crossbowman,-0.7,0.08333337,-3,Card/Soldier/C_Crossbowman
 2934.079,False,CardSpawn,Map1,Crossbowman,0.7,0.08333337,-3,Card/Soldier/C_Crossbowman
+3039.363,False,CardMergeOrder,Map1,Swordsman,-0.9320303,0.4999999,-2,Card/Soldier/C_Swordsman
+3039.379,False,CardMergeOrder,Map1,Swordsman,0,0.4999999,-2,Card/Soldier/C_Swordsman
+3039.396,False,CardMergeOrder,Map1,Crossbowman,-0.7,0.4999999,-3,Card/Soldier/C_Crossbowman
+3039.413,False,CardMergeOrder,Map1,Crossbowman,0.7,0.4999999,-3,Card/Soldier/C_Crossbowman
+3039.429,False,CardMergeOrder,Map1,Swordsman,0.9320303,0.4999999,-2,Card/Soldier/C_Swordsman
