@@ -317,3 +317,8 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 1548.704,False,CardSpawn,Map1,Copper Ore,8.635571,0.1029449,-3.591093,Card/Material/C_CopperOre
 2900.568,False,CardSpawn,Map1,Ignix,0,0.08333337,0,Card/Enemy/Boss/C_Red Dragon Ignix_Small
 2904.501,False,CardSpawn,Map1,Ignix,0,0.08333337,0,Card/Enemy/Boss/C_Red Dragon Ignix_Small
+2934.079,False,CardSpawn,Map1,Swordsman,-0.9320303,0.08333337,-2,Card/Soldier/C_Swordsman
+2934.079,False,CardSpawn,Map1,Swordsman,0,0.08333337,-2,Card/Soldier/C_Swordsman
+2934.079,False,CardSpawn,Map1,Swordsman,0.9320303,0.08333337,-2,Card/Soldier/C_Swordsman
+2934.079,False,CardSpawn,Map1,Crossbowman,-0.7,0.08333337,-3,Card/Soldier/C_Crossbowman
+2934.079,False,CardSpawn,Map1,Crossbowman,0.7,0.08333337,-3,Card/Soldier/C_Crossbowman
