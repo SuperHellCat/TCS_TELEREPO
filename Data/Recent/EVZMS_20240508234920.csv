@@ -195,3 +195,9 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 950.52,False,CardDestroyed,Map1,Apple Tree,4.06,0.035,0.7692942,Card/Nature/C_Tree
 950.5656,False,CardSpawn,Map1,Wood,3.989998,0.04760036,0.8692974,Card/Material/C_Wood
 950.6655,False,CardSpawn,Map1,Apple,4.06,0.2096964,0.8359602,Card/Food/C_Apple
+1009.384,False,CardMergeOrder,Map1,Wood,0.04597717,0.5588576,4.892376,Card/Material/C_Wood
+1009.401,False,CardMergeOrder,Map1,Apple,1.150886,0.4585831,4.980382,Card/Food/C_Apple
+1009.417,False,CardMergeOrder,Map1,Apple,0.607698,0.5157965,5.045154,Card/Food/C_Apple
+1051.008,False,CardSpawn,Map1,Villager,1.38289,0.08333337,2.215595,Card/Villager/C_Villager
+1051.008,False,CardSpawn,Map1,Logging Axe,1.45294,0.04760791,2.215595,Card/Tool/C_Logging Axe
+1052.808,False,CardSpawn,Map1,Pickaxe,4.125,0.2238588,-1.575,Card/Tool/C_Mining Pickaxe
