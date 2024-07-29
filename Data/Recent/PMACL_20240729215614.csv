@@ -206,3 +206,25 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 224.7222,False,CardSpawn,Map1,Wood,4.810924,0.04759993,1.725,Card/Material/C_Wood
 296.2422,False,CardMergeOrder,Map1,Loggers,6.014635,0.5239995,0.4668726,Card/Villager/C_Lumberjack
 296.2589,False,CardMergeOrder,Map1,Rock,5.977884,0.4760004,1.142908,Card/Nature/C_Rock Vein
+318.4782,False,CardSpawn,Map1,Villager,4.536184,0.08333337,0.7991258,Card/Villager/C_Villager
+318.4782,False,CardSpawn,Map1,Logging Axe,4.606185,0.0476002,0.7991258,Card/Tool/C_Logging Axe
+320.2115,False,CardSpawn,Map1,Pickaxe,4.125,0.2238588,-1.575,Card/Tool/C_Mining Pickaxe
+325.0116,False,CardMergeOrder,Map1,Pickaxe,4.125,0.4998729,-1.575,Card/Tool/C_Mining Pickaxe
+325.0283,False,CardMergeOrder,Map1,Villager,3.032224,0.4997363,-0.7667913,Card/Villager/C_Villager
+328.1116,False,CardSpawn,Map1,Miner,3.578612,0.679732,-1.170896,Card/Villager/C_Miner
+328.1283,False,CardSpawn,Map1,Rock,6.125,0.2121653,-1.575,Card/Nature/C_Rock Vein
+333.02,False,CardDestroyed,Map1,Rock,6.141788,0.035,-1.575,Card/Nature/C_Rock Vein
+333.0617,False,CardSpawn,Map1,Stone,6.071791,0.04759968,-1.475003,Card/Material/C_Stone
+341.34,False,CardDestroyed,Map1,Rock,6.114231,0.035,-0.3043825,Card/Nature/C_Rock Vein
+341.3785,False,CardSpawn,Map1,Stone,6.044227,0.04760056,-0.2043775,Card/Material/C_Stone
+343.4452,False,CardSpawn,Map1,Copper Vein,7.175001,0.03500379,-4.674999,Card/Nature/C_Copper Vein
+352.8805,False,CardSpawn,Map1,Tree,4.175003,0.03500379,2.625,Card/Nature/C_Tree
+353.7972,False,CardMergeOrder,Map1,Stone,3.999823,0.5200365,-1.459145,Card/Material/C_Stone
+353.8139,False,CardMergeOrder,Map1,Stone,3.719528,0.4800377,-0.9712453,Card/Material/C_Stone
+353.8305,False,CardMergeOrder,Map1,Wood,3.201616,0.4999387,0.1340967,Card/Material/C_Wood
+353.8472,False,CardMergeOrder,Map1,Wood,3.930255,0.4999387,-0.04302967,Card/Material/C_Wood
+355.9305,False,CardSpawn,Map1,Campfire,3.712806,0.6799819,-0.5848309,Card/Building/C_Campfire
+357.4699,False,CardSpawn,Map1,Vagrant,12.66,0.08333337,-0.72,Card/Villager/C_Vagrant
+357.5,False,CardDestroyed,Map1,Rock,4.175002,0.08964417,-4.717935,Card/Nature/C_Rock Vein
+357.5366,False,CardSpawn,Map1,Stone,4.105,0.1219168,-4.617932,Card/Material/C_Stone
+362.1367,False,CardSpawn,Map1,Rock,6.425,0.03501895,-0.5750003,Card/Nature/C_Rock Vein
