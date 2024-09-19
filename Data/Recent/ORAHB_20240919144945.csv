@@ -263,3 +263,18 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 442.6261,False,CardSpawn,Map1,Apple Tree,7.175025,0.035,0.5749998,Card/Nature/C_Tree
 444.5484,False,CardSpawn,Map1,Tree,3.625002,0.03500078,5.375,Card/Nature/C_Tree
 446.2054,False,CardSpawn,Map1,Tree,6.425001,0.03500077,3.674999,Card/Nature/C_Tree
+451.22,False,CardDestroyed,Map1,Apple Tree,0.6250024,0.1008802,4.387502,Card/Nature/C_Tree
+451.2679,False,CardSpawn,Map1,Wood,0.5550013,0.1371976,4.487504,Card/Material/C_Wood
+451.3679,False,CardSpawn,Map1,Apple,0.6250024,0.1029441,4.454169,Card/Food/C_Apple
+451.4766,False,CardSpawn,Map1,Apple,0.6747633,0.1021974,4.458589,Card/Food/C_Apple
+451.581,False,CardSpawn,Map1,Apple,0.5783335,0.09906579,4.387502,Card/Food/C_Apple
+455.6128,False,CardMergeOrder,Map1,Loggers,0.6270494,0.4999996,3.651857,Card/Villager/C_Lumberjack
+455.6295,False,CardMergeOrder,Map1,Apple,1.229727,0.4999999,2.046612,Card/Food/C_Apple
+455.6461,False,CardMergeOrder,Map1,Apple,0.3676394,0.4999996,2.199849,Card/Food/C_Apple
+466.7971,False,CardMergeOrder,Map1,Loggers,2.552022,0.4999991,1.785477,Card/Villager/C_Lumberjack
+466.8138,False,CardMergeOrder,Map1,Wood,3.326092,0.4999984,1.886883,Card/Material/C_Wood
+473.9317,False,CardMergeOrder,Map1,Loggers,3.240032,0.4999829,2.533205,Card/Villager/C_Lumberjack
+473.9483,False,CardMergeOrder,Map1,Tree,4.020404,0.4999489,2.319686,Card/Nature/C_Tree
+499.0221,False,CardSpawn,Map1,Villager,3.796499,0.08333337,2.329757,Card/Villager/C_Villager
+499.0221,False,CardSpawn,Map1,Logging Axe,3.726499,0.04760014,2.329757,Card/Tool/C_Logging Axe
+500.8329,False,CardSpawn,Map1,Pickaxe,4.125,0.2238588,-1.575,Card/Tool/C_Mining Pickaxe
