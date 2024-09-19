@@ -242,3 +242,39 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 309,False,CardDestroyed,Map1,Rock,4.874738,0.035,-2.674824,Card/Nature/C_Rock Vein
 309.0356,False,CardSpawn,Map1,Stone,4.804739,0.04759991,-2.574825,Card/Material/C_Stone
 309.1363,False,CardSpawn,Map1,Stone,4.875018,0.04385626,-2.607077,Card/Material/C_Stone
+321.0412,False,CardMergeOrder,Map1,Apple,6.243084,0.4999992,-2.766321,Card/Food/C_Apple
+321.0582,False,CardMergeOrder,Map1,Stone,5.547969,0.5158522,-3.758908,Card/Material/C_Stone
+321.0748,False,CardMergeOrder,Map1,Vagrant,6.940917,0.4999971,-3.711243,Card/Villager/C_Vagrant
+322.34,False,CardDestroyed,Map1,Rock,6.390768,0.08519287,-0.2772783,Card/Nature/C_Rock Vein
+322.384,False,CardSpawn,Map1,Stone,6.319559,0.1163319,-0.1755519,Card/Material/C_Stone
+322.485,False,CardSpawn,Map1,Stone,6.390768,0.1086112,-0.2090923,Card/Material/C_Stone
+326.208,False,CardMergeOrder,Map1,Vagrant,5.778522,0.5239323,-2.987227,Card/Villager/C_Vagrant
+326.225,False,CardMergeOrder,Map1,Apple,5.949722,0.4760054,-2.833645,Card/Food/C_Apple
+329.3196,False,CardSpawn,Map1,Villager,5.864122,0.6940386,-2.910436,Card/Villager/C_Villager
+330.2715,False,CardSpawn,Map1,Rock,5.575001,0.03500078,-3.674999,Card/Nature/C_Rock Vein
+334.6319,False,CardMergeOrder,Map1,Logging Axe,6.665296,0.4999996,-4.15892,Card/Tool/C_Logging Axe
+334.6485,False,CardMergeOrder,Map1,Villager,7.363403,0.5001193,-4.715217,Card/Villager/C_Villager
+337.7391,False,CardSpawn,Map1,Loggers,7.01435,0.6815271,-4.437069,Card/Villager/C_Lumberjack
+342.54,False,CardDestroyed,Map1,Rock,5.575001,0.1008802,-3.701789,Card/Nature/C_Rock Vein
+342.5842,False,CardSpawn,Map1,Stone,5.503788,0.1377552,-3.600056,Card/Material/C_Stone
+343.5458,False,CardSpawn,Map1,Rock,7.824999,0.03500015,-0.5750003,Card/Nature/C_Rock Vein
+357.0162,False,CardSpawn,Map1,Copper Vein,8.575001,0.03500076,-3.674999,Card/Nature/C_Copper Vein
+358.06,False,CardDestroyed,Map1,Tree,7.17806,0.035,0.5937532,Card/Nature/C_Tree
+358.098,False,CardSpawn,Map1,Wood,7.106853,0.04779267,0.6954772,Card/Material/C_Wood
+358.7,False,CardDestroyed,Map1,Rock,7.86068,0.035,-0.5750059,Card/Nature/C_Rock Vein
+358.7394,False,CardSpawn,Map1,Stone,7.790375,0.04764881,-0.4745699,Card/Material/C_Stone
+358.8408,False,CardSpawn,Map1,Stone,7.86068,0.04385021,-0.5071913,Card/Material/C_Stone
+362.9133,False,CardSpawn,Map1,Rock,5.575001,0.08784734,-4.674999,Card/Nature/C_Rock Vein
+368.1515,False,CardMergeOrder,Map1,Stone,1.14942,0.5237214,0.3307811,Card/Material/C_Stone
+368.16,False,CardDestroyed,Map1,Apple Tree,7.215089,0.035,1.657263,Card/Nature/C_Tree
+368.1685,False,CardMergeOrder,Map1,Stone,1.145955,0.4998297,-0.8747736,Card/Material/C_Stone
+368.1851,False,CardMergeOrder,Map1,Wood,1.768676,0.4759521,0.243854,Card/Material/C_Wood
+368.2019,False,CardMergeOrder,Map1,Stone,1.862878,0.4997547,-1.369698,Card/Material/C_Stone
+368.2019,False,CardSpawn,Map1,Wood,7.144571,0.04768271,1.758002,Card/Material/C_Wood
+368.3031,False,CardSpawn,Map1,Apple,7.215089,0.0438513,1.725087,Card/Food/C_Apple
+368.4144,False,CardSpawn,Map1,Apple,7.262591,0.0438557,1.725109,Card/Food/C_Apple
+372.5721,False,CardMergeOrder,Map1,Stone,1.333802,0.5952713,-0.008338028,Card/Material/C_Stone
+372.5891,False,CardMergeOrder,Map1,Wood,1.441819,0.5032198,-0.868062,Card/Material/C_Wood
+372.606,False,CardMergeOrder,Map1,Stone,1.813919,0.5570296,-0.06028362,Card/Material/C_Stone
+372.623,False,CardMergeOrder,Map1,Stone,1.728519,0.42583,-1.250895,Card/Material/C_Stone
+372.64,False,CardMergeOrder,Map1,Wood,2.142461,0.3537633,-1.418203,Card/Material/C_Wood
