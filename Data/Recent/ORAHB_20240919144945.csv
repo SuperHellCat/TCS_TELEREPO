@@ -278,3 +278,23 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 499.0221,False,CardSpawn,Map1,Villager,3.796499,0.08333337,2.329757,Card/Villager/C_Villager
 499.0221,False,CardSpawn,Map1,Logging Axe,3.726499,0.04760014,2.329757,Card/Tool/C_Logging Axe
 500.8329,False,CardSpawn,Map1,Pickaxe,4.125,0.2238588,-1.575,Card/Tool/C_Mining Pickaxe
+510.782,False,CardMergeOrder,Map1,Villager,4.003685,0.4999945,-0.4471577,Card/Villager/C_Villager
+510.7986,False,CardMergeOrder,Map1,Pickaxe,4.125,0.4999945,-1.575,Card/Tool/C_Mining Pickaxe
+513.8818,False,CardSpawn,Map1,Miner,4.064342,0.6799963,-1.011079,Card/Villager/C_Miner
+513.9084,False,CardSpawn,Map1,Rock,6.125,0.2121653,-1.575,Card/Nature/C_Rock Vein
+518.4938,False,CardMergeOrder,Map1,Miner,4.664319,0.4999999,-0.990481,Card/Villager/C_Miner
+518.5105,False,CardMergeOrder,Map1,Rock,5.364319,0.4999999,-0.990481,Card/Nature/C_Rock Vein
+523.5624,False,CardSpawn,Map1,Copper Vein,8.575001,0.03500379,-2.674999,Card/Nature/C_Copper Vein
+524.6,False,CardDestroyed,Map1,Rock,7.846764,0.035,-0.5750003,Card/Nature/C_Rock Vein
+524.6458,False,CardSpawn,Map1,Stone,7.776762,0.04760034,-0.4749973,Card/Material/C_Stone
+529.14,False,CardDestroyed,Map1,Rock,3.775878,0.1008802,-0.990481,Card/Nature/C_Rock Vein
+529.1792,False,CardSpawn,Map1,Stone,3.705876,0.1371981,-0.8904778,Card/Material/C_Stone
+529.2792,False,CardSpawn,Map1,Stone,3.775878,0.09868503,-0.9238122,Card/Material/C_Stone
+545.5503,False,CardSpawn,Map1,Rock,7.824999,0.03500379,-1.575,Card/Nature/C_Rock Vein
+549.3222,False,CardMergeOrder,Map1,Wood,2.888001,0.4999858,1.29388,Card/Material/C_Wood
+549.3389,False,CardMergeOrder,Map1,Stone,3.075878,0.4999829,0.009519041,Card/Material/C_Stone
+549.3555,False,CardMergeOrder,Map1,Wood,3.75196,0.4999754,1.246129,Card/Material/C_Wood
+549.3722,False,CardMergeOrder,Map1,Stone,3.775878,0.4999754,0.009519041,Card/Material/C_Stone
+551.4558,False,CardSpawn,Map1,Campfire,3.372929,0.6799777,0.6397617,Card/Building/C_Campfire
+553.2952,False,CardSpawn,Map1,Vagrant,12.66,0.08333337,-0.72,Card/Villager/C_Vagrant
+559.2851,False,CardSpawn,Map1,Ignix,0,0.08333337,0,Card/Enemy/Boss/C_Red Dragon Ignix_Small
