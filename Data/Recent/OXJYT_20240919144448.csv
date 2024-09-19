@@ -172,3 +172,6 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 41.84661,False,CardSpawn,Map1,Dungeon,-65.25002,0.1766915,129,Card/Scene/C_Dungeon
 70.01259,False,CardSpawn,Map1,Vagrant,-2.964689,0.08333337,0.2590625,Card/Villager/C_Vagrant
 82.75002,False,CardSpawn,Map1,Apple,-4.964684,0.223385,-0.5543706,Card/Food/C_Apple
+268.1855,False,CardMergeOrder,Map1,Apple,1.05481,0.5000001,2.027531,Card/Food/C_Apple
+268.2022,False,CardMergeOrder,Map1,Vagrant,2.804949,0.5000001,1.349573,Card/Villager/C_Vagrant
+271.3023,False,CardSpawn,Map1,Villager,1.929879,0.6800027,1.688552,Card/Villager/C_Villager
