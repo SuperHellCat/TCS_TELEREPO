@@ -223,3 +223,22 @@ timeStamp,gamePaused,eventType,mapName,cardName,pos_x,pos_y,pos_z,cardPath
 245.6499,False,CardSpawn,Map1,Stone,7.047266,0.0478842,-0.4724562,Card/Material/C_Stone
 245.7516,False,CardSpawn,Map1,Stone,7.119048,0.04384604,-0.5072216,Card/Material/C_Stone
 250.7062,False,CardSpawn,Map1,Rock,4.875001,0.03500078,-2.674999,Card/Nature/C_Rock Vein
+264.44,False,CardDestroyed,Map1,Rock,4.875001,0.1008802,-2.701789,Card/Nature/C_Rock Vein
+264.4852,False,CardSpawn,Map1,Stone,4.803788,0.1377557,-2.600055,Card/Material/C_Stone
+264.5909,False,CardSpawn,Map1,Stone,4.875001,0.1059408,-2.624264,Card/Material/C_Stone
+266.0023,False,CardSpawn,Map1,Rock,7.824999,0.03500076,-2.575,Card/Nature/C_Rock Vein
+266.0023,False,CardSpawn,Map1,Chicken,7.824999,0.08333337,-2.575,Card/Creature/C_Rabbit
+276.56,False,CardDestroyed,Map1,Rock,7.828298,0.035,-2.575,Card/Nature/C_Rock Vein
+276.6105,False,CardSpawn,Map1,Stone,7.757452,0.04773514,-2.473792,Card/Material/C_Stone
+276.712,False,CardSpawn,Map1,Stone,7.83187,0.2302848,-2.508825,Card/Material/C_Stone
+278.4707,False,CardSpawn,Map1,Copper Vein,7.875,0.03500076,-4.674999,Card/Nature/C_Copper Vein
+285.3717,False,CardSpawn,Map1,Rock,4.875001,0.03500389,-2.674999,Card/Nature/C_Rock Vein
+296.76,False,CardDestroyed,Map1,Copper Vein,8.011352,0.07425483,-4.76081,Card/Nature/C_Copper Vein
+296.8074,False,CardSpawn,Map1,Copper Ore,7.940134,0.1013989,-4.65907,Card/Material/C_CopperOre
+297.6426,False,CardSpawn,Map1,Rock,6.425,0.03500015,-0.5750003,Card/Nature/C_Rock Vein
+299.2228,False,CardMergeOrder,Map1,Apple,6.417614,0.4999989,-4.76917,Card/Food/C_Apple
+299.2397,False,CardMergeOrder,Map1,Copper Ore,7.311352,0.4999539,-3.758819,Card/Material/C_CopperOre
+299.2567,False,CardMergeOrder,Map1,Miner,7.597626,0.4999462,-4.658819,Card/Villager/C_Miner
+309,False,CardDestroyed,Map1,Rock,4.874738,0.035,-2.674824,Card/Nature/C_Rock Vein
+309.0356,False,CardSpawn,Map1,Stone,4.804739,0.04759991,-2.574825,Card/Material/C_Stone
+309.1363,False,CardSpawn,Map1,Stone,4.875018,0.04385626,-2.607077,Card/Material/C_Stone
